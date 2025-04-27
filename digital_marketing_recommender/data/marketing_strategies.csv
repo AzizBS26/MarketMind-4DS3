@@ -1,0 +1,1001 @@
+strategy_id,strategy_name,budget_required,min_budget,max_budget,technical_expertise,time_investment,min_time_weekly,max_time_weekly,conversion_rate,brand_awareness,lead_generation,customer_retention,best_for_industry,target_audience_size
+1,AI-Driven Affiliate Marketing Strategy,3,680,5677,4,1,5,24,1,3,1,1,"Travel,Gaming",3
+2,Advanced Community Marketing Campaign,3,1126,3696,1,3,5,16,2,5,3,3,"Lifestyle,Services,Events",2
+3,NextGen Video Marketing Engagement,1,429,6930,3,1,10,20,1,5,5,3,"Local Business,Finance",5
+4,Targeted SMS Marketing Outreach,2,1538,9173,2,5,5,22,5,4,2,3,Real Estate,4
+5,Hyper PR Campaigns Engagement,3,1972,7530,2,3,10,12,4,1,4,2,"Education,Digital Products",3
+6,Hyper Local SEO Outreach,3,573,6514,4,5,9,24,2,4,1,4,"B2B,Beauty,Services,Technology",1
+7,AI-Driven Content Marketing Plan,1,317,9970,2,5,6,26,2,3,2,4,"Products,Travel,Services,Manufacturing",4
+8,Smart Social Media Marketing Outreach,4,1199,3095,5,1,7,10,4,2,3,1,"Retail,News,Local Business,Restaurants",2
+9,Smart Conversational Marketing Strategy,1,1043,3137,1,4,7,13,5,1,1,5,"Products,Fitness",3
+10,AI-Driven Content Marketing Growth,4,457,2628,2,1,10,14,1,5,2,4,"Manufacturing,News",4
+11,AI-Driven Social Media Ads Outreach,4,1456,3229,3,3,2,29,3,3,4,3,"Travel,SaaS",3
+12,Advanced Micro-Influencer Marketing Outreach,5,1283,5756,3,5,4,17,1,3,5,5,"SaaS,Events,News,Food",3
+13,AI-Driven Pay-Per-Click Advertising Outreach,2,756,8047,1,1,9,11,4,2,4,4,"Fashion,SaaS,Real Estate",1
+14,Ultimate Loyalty Programs Growth,1,665,9996,5,1,9,25,1,2,5,1,"Digital Products,Services,Products",3
+15,Dynamic Native Advertising Outreach,2,606,5966,4,5,9,10,3,4,4,1,Travel,3
+16,NextGen Community Marketing Campaign,4,887,5162,3,3,6,13,5,5,4,4,"Real Estate,Lifestyle",1
+17,Dynamic Trade Shows & Events Strategy,1,779,2012,3,1,2,27,5,2,1,4,Digital Products,5
+18,Ultimate Community Marketing Campaign,4,749,9438,5,3,2,24,4,2,1,5,"B2B,Services",1
+19,Ultimate Trade Shows & Events Growth,5,1394,6954,4,5,8,26,3,5,1,3,"Events,Professional Services,Manufacturing,Education",2
+20,Hyper Social Media Ads Growth,5,1062,8619,1,1,10,20,1,3,5,1,"Education,SaaS,Finance",1
+21,Hyper LinkedIn Marketing Strategy,3,686,3311,2,4,1,13,5,1,5,2,All,5
+22,Targeted Influencer Marketing Strategy,5,1800,3667,5,5,7,14,3,2,1,1,"E-commerce,Lifestyle,Fashion,B2B",1
+23,AI-Driven Pay-Per-Click Advertising Plan,1,1656,8325,1,2,7,11,5,3,3,2,"Digital Products,B2B,News,Finance",1
+24,Smart Trade Shows & Events Growth,4,421,3521,1,4,5,22,2,1,5,4,"Finance,All,News",4
+25,Hyper Trade Shows & Events Plan,1,359,7825,2,5,4,25,3,2,4,3,"Professional Services,Retail,Local Business",1
+26,Ultimate Augmented Reality Marketing Plan,1,794,4588,2,1,9,14,2,4,2,5,"Fashion,Retail",3
+27,Smart Podcast Advertising Growth,4,1241,6999,3,2,5,13,3,4,4,2,"Events,Technology,Lifestyle,Gaming",2
+28,Smart Affiliate Marketing Plan,5,380,7386,5,4,7,18,2,3,1,4,"Technology,Products,E-commerce",4
+29,Smart Voice Search Optimization Outreach,2,209,5857,2,1,6,29,3,3,5,5,"Fashion,Finance,All",2
+30,Advanced SMS Marketing Plan,5,1570,4197,3,3,4,17,2,2,1,5,Fashion,5
+31,AI-Driven Micro-Influencer Marketing Strategy,2,242,6905,3,4,9,18,4,4,3,3,Retail,5
+32,Ultimate Augmented Reality Marketing Growth,5,1778,3563,3,2,5,16,1,5,3,1,"Retail,SaaS",4
+33,AI-Driven Social Media Ads Engagement,1,155,2984,4,2,10,13,5,3,2,2,"Fashion,Food,Real Estate",1
+34,Dynamic Local SEO Engagement,1,1701,8708,3,1,8,18,2,3,1,3,"B2B,All,Services",1
+35,NextGen User-Generated Content Strategy,1,979,6033,4,2,2,26,5,2,4,3,Education,3
+36,Hyper Local SEO Strategy,5,274,7925,2,5,1,26,1,5,1,3,Food,3
+37,NextGen SMS Marketing Strategy,5,1279,8868,2,3,4,21,4,3,3,1,"B2B,E-commerce,Digital Products,Products",3
+38,Hyper Podcast Advertising Outreach,3,1598,6202,5,5,4,17,4,1,2,3,"Products,SaaS,Local Business",2
+39,Smart LinkedIn Marketing Strategy,3,1790,8674,5,5,10,29,2,2,5,2,"Entertainment,E-commerce",5
+40,Smart Conversational Marketing Outreach,2,401,9515,3,2,6,24,2,5,2,5,Education,4
+41,Targeted Social Media Marketing Engagement,2,1183,2944,5,5,3,11,3,4,3,4,"Digital Products,Professional Services,Fitness",2
+42,Dynamic Outbound Sales Engagement,1,1245,9679,3,2,6,19,1,1,4,1,"Entertainment,Digital Products,Restaurants",2
+43,Smart User-Generated Content Strategy,3,657,5718,2,3,6,14,1,2,2,5,"Professional Services,Finance,SaaS",5
+44,Dynamic Social Media Ads Outreach,5,1513,5413,3,5,1,17,1,2,4,3,"Restaurants,Digital Products,Fashion",2
+45,AI-Driven PR Campaigns Outreach,2,1843,9620,2,2,4,19,3,1,3,5,"Manufacturing,Retail",3
+46,Advanced Video Marketing Outreach,1,1602,6738,4,1,7,13,4,1,2,3,"Fitness,All,Education",1
+47,Targeted Augmented Reality Marketing Plan,4,1160,5994,1,5,6,27,4,4,4,5,"Local Business,SaaS,Finance",5
+48,AI-Driven PR Campaigns Strategy,2,1991,2882,4,5,4,20,1,3,2,2,Finance,2
+49,AI-Driven Retargeting Campaigns Plan,4,926,9802,3,5,3,15,2,4,3,4,Manufacturing,4
+50,Hyper Conversational Marketing Outreach,1,212,3000,2,3,10,21,2,3,1,4,"All,News,Education,Technology",4
+51,Advanced Influencer Marketing Plan,1,1767,4838,3,4,8,25,5,4,4,1,"E-commerce,All",5
+52,Advanced Video Marketing Strategy,4,1414,2276,5,3,2,24,3,3,1,1,"Travel,Restaurants,Local Business,Retail",4
+53,NextGen Search Engine Optimization (SEO) Strategy,5,995,6569,2,4,4,28,4,5,4,5,"Travel,B2B",1
+54,AI-Driven Trade Shows & Events Growth,1,1075,4716,1,3,8,23,3,3,1,2,Digital Products,1
+55,Hyper Podcast Advertising Growth,5,1849,2249,2,5,6,21,5,4,3,5,Entertainment,3
+56,Smart Social Media Marketing Strategy,5,1676,7186,1,5,4,27,4,4,5,5,Fashion,5
+57,AI-Driven Webinars Strategy,3,686,3219,1,5,4,25,5,5,1,5,"B2B,Retail",5
+58,Hyper Local SEO Campaign,2,1757,2598,2,4,9,28,5,3,1,2,"Food,Events,Local Business,SaaS",1
+59,NextGen Pay-Per-Click Advertising Campaign,3,221,3893,5,2,7,25,3,2,5,2,SaaS,3
+60,Advanced User-Generated Content Campaign,2,1295,5223,5,4,3,29,1,1,3,2,"Professional Services,Events",5
+61,Dynamic Outbound Sales Outreach,4,1773,5259,3,3,6,13,4,5,5,1,Beauty,1
+62,Hyper Social Media Ads Outreach,4,1056,4687,1,1,7,18,1,3,3,2,"Gaming,Lifestyle,Services",4
+63,AI-Driven Social Media Marketing Campaign,4,679,3228,4,5,7,10,1,5,1,4,"Real Estate,Local Business",4
+64,Hyper Loyalty Programs Campaign,1,628,3964,5,1,8,17,3,5,4,4,Entertainment,3
+65,NextGen Outbound Sales Growth,5,1239,6087,1,4,4,14,2,3,5,1,"SaaS,News",4
+66,Ultimate Loyalty Programs Outreach,5,372,5710,2,5,8,12,1,2,4,1,"All,Digital Products",1
+67,NextGen Retargeting Campaigns Strategy,4,1640,5544,3,5,8,14,1,1,5,4,"Local Business,Beauty,Gaming,Digital Products",1
+68,Smart SMS Marketing Growth,4,361,5534,5,4,9,16,2,5,1,5,"Fashion,Travel",5
+69,NextGen Voice Search Optimization Growth,4,246,6667,5,5,5,22,2,3,1,4,Entertainment,1
+70,Ultimate Search Engine Optimization (SEO) Campaign,1,1024,7706,2,4,2,28,4,4,4,5,Lifestyle,2
+71,NextGen Conversational Marketing Engagement,1,712,9584,3,3,2,23,1,1,2,1,"Education,All,Real Estate,SaaS",4
+72,Advanced Social Media Ads Engagement,4,1318,3210,4,5,8,12,5,1,4,1,Products,1
+73,Hyper Loyalty Programs Growth,4,211,8663,1,2,2,27,2,3,3,4,"SaaS,Finance,Manufacturing",5
+74,AI-Driven Customer Referral Programs Growth,1,1727,7393,1,3,8,11,4,1,1,5,"Entertainment,Professional Services,Beauty",2
+75,Smart Content Marketing Campaign,3,221,7130,3,2,6,15,2,2,3,4,"SaaS,Entertainment",3
+76,NextGen Content Marketing Outreach,1,1880,3263,1,2,5,16,1,3,3,5,"Entertainment,Food",5
+77,Smart Trade Shows & Events Campaign,4,841,8261,3,1,6,24,3,1,1,4,"Beauty,Technology",3
+78,Dynamic Loyalty Programs Growth,5,1076,6464,1,3,6,25,5,1,1,2,"Finance,Events,Education,Local Business",2
+79,Ultimate Mobile App Marketing Outreach,4,334,5312,4,4,8,27,3,3,5,2,"Manufacturing,Real Estate,Restaurants",3
+80,NextGen Social Media Ads Plan,5,850,9164,2,2,4,16,3,5,3,3,"Real Estate,E-commerce,Food,Finance",4
+81,Targeted Native Advertising Campaign,4,148,7170,4,3,5,24,1,3,1,5,Services,1
+82,Dynamic Conversational Marketing Plan,5,1905,2727,4,1,7,14,1,5,1,2,"News,E-commerce,Food",1
+83,Smart Pay-Per-Click Advertising Engagement,4,204,2030,1,2,1,18,2,2,1,4,"Lifestyle,Services,Digital Products",5
+84,Ultimate Loyalty Programs Plan,4,885,3669,4,5,8,28,4,3,5,5,"Events,Real Estate",2
+85,Hyper Search Engine Optimization (SEO) Campaign,1,902,7504,1,3,4,17,5,1,4,4,Restaurants,2
+86,Smart Search Engine Optimization (SEO) Outreach,2,834,3063,4,1,9,30,2,2,5,3,"Local Business,Finance,Events,Travel",2
+87,AI-Driven Trade Shows & Events Outreach,1,394,5722,1,1,1,27,2,5,3,5,"Events,Real Estate",1
+88,AI-Driven Loyalty Programs Campaign,3,1511,7094,5,3,5,12,1,5,1,5,"Lifestyle,All",1
+89,Ultimate Augmented Reality Marketing Growth,2,555,6506,2,3,7,19,1,4,3,2,"Fashion,Services",3
+90,AI-Driven Loyalty Programs Plan,3,949,6138,4,1,4,22,1,2,3,3,"Events,B2B",3
+91,Smart Retargeting Campaigns Plan,4,659,2985,3,5,9,26,4,3,4,3,"SaaS,E-commerce,Manufacturing",2
+92,Advanced Pay-Per-Click Advertising Strategy,5,1851,5030,1,1,2,22,2,1,1,2,"Entertainment,B2B,Fitness,Products",3
+93,Dynamic Email Marketing Engagement,2,547,7043,4,3,9,11,4,3,5,2,"B2B,Lifestyle,Gaming,Professional Services",4
+94,Dynamic Community Marketing Growth,4,1543,3750,2,3,10,14,5,3,4,2,"E-commerce,Food",4
+95,Hyper Social Media Marketing Plan,4,1025,8688,2,4,5,26,4,3,1,2,"Technology,Real Estate",2
+96,Hyper Influencer Marketing Campaign,3,312,8312,4,5,6,21,3,3,1,1,"Real Estate,Restaurants,B2B",2
+97,AI-Driven Search Engine Optimization (SEO) Strategy,1,1300,8010,5,1,5,22,5,5,1,5,"Education,Digital Products,SaaS,Travel",2
+98,Smart Customer Referral Programs Growth,1,1823,2042,4,3,5,23,2,1,3,5,Food,4
+99,Advanced Content Marketing Growth,2,1225,3573,4,5,6,14,2,2,3,4,"Finance,Fitness,E-commerce",3
+100,NextGen Loyalty Programs Campaign,5,1230,7522,1,2,10,23,3,2,2,3,"Local Business,Entertainment,Finance,Services",5
+101,Hyper Podcast Advertising Outreach,4,1228,3146,3,2,6,23,2,1,5,2,"Food,Travel,Finance",1
+102,Ultimate Native Advertising Growth,3,1838,6911,2,2,4,12,5,1,2,1,"Real Estate,Manufacturing,Education",1
+103,Targeted Native Advertising Strategy,3,604,4205,2,2,10,22,1,1,4,5,"Manufacturing,Digital Products",4
+104,AI-Driven Social Media Marketing Strategy,1,1753,2096,4,5,10,23,5,5,3,1,Education,2
+105,Ultimate Social Media Ads Outreach,4,266,6197,2,1,10,23,1,5,2,2,"All,Food,E-commerce",5
+106,Targeted Pay-Per-Click Advertising Plan,1,1077,7759,5,2,8,22,4,3,5,3,"Lifestyle,Entertainment,E-commerce,Beauty",3
+107,Ultimate Podcast Advertising Campaign,1,1081,8709,2,1,2,10,3,3,2,5,"Fitness,Products,Education",4
+108,Hyper Augmented Reality Marketing Growth,5,989,3624,3,1,10,28,2,3,5,4,E-commerce,3
+109,AI-Driven Customer Referral Programs Plan,3,1432,8218,5,4,8,30,4,3,2,4,Technology,2
+110,Ultimate Video Marketing Growth,1,1288,2509,5,5,2,11,2,4,3,1,"Local Business,Real Estate",2
+111,Ultimate Micro-Influencer Marketing Outreach,1,139,4056,2,4,4,19,1,4,5,5,"Events,Technology,Education,Products",5
+112,Advanced Email Marketing Strategy,4,1804,8743,1,1,8,20,5,4,3,3,Travel,3
+113,Targeted Webinars Growth,1,307,2136,5,5,6,19,2,2,2,4,"Services,Professional Services,Fitness,Manufacturing",3
+114,Hyper Social Media Marketing Engagement,3,137,2552,5,4,3,27,1,3,4,3,"Local Business,Lifestyle,Technology,Finance",1
+115,Dynamic Retargeting Campaigns Campaign,2,398,7190,3,5,4,11,1,4,3,3,"Manufacturing,Events",4
+116,AI-Driven Retargeting Campaigns Engagement,2,1757,8744,4,4,3,21,1,3,3,5,"Retail,Digital Products",4
+117,Dynamic Outbound Sales Strategy,1,487,7328,4,1,4,17,2,3,4,5,"Education,Real Estate",1
+118,AI-Driven Micro-Influencer Marketing Engagement,1,368,6042,1,4,1,25,2,2,5,5,"Education,Entertainment,Professional Services",4
+119,AI-Driven LinkedIn Marketing Strategy,5,1061,6493,5,3,1,15,2,2,2,1,"Fitness,Professional Services,Retail,Manufacturing",3
+120,Dynamic Retargeting Campaigns Engagement,2,686,7922,2,4,3,22,3,3,5,3,"Restaurants,Finance",3
+121,Ultimate Social Media Ads Strategy,3,1309,3212,3,4,7,24,4,1,1,2,"Digital Products,Events,News,Beauty",3
+122,Dynamic Micro-Influencer Marketing Strategy,1,1064,6619,3,4,10,23,1,1,2,3,Fashion,4
+123,Hyper Community Marketing Growth,2,520,2631,5,3,7,29,1,5,1,4,"Manufacturing,Finance,Entertainment",3
+124,Targeted SMS Marketing Campaign,2,1571,9961,4,1,9,27,1,5,4,4,"Services,Events",5
+125,Hyper Social Media Marketing Growth,1,996,8774,4,5,1,16,5,1,4,1,"Travel,Entertainment,Real Estate",4
+126,Targeted Influencer Marketing Plan,4,1202,4182,1,4,2,30,4,1,3,2,"Beauty,B2B,Manufacturing,Food",3
+127,Ultimate Native Advertising Campaign,2,1944,8544,2,3,3,15,2,2,1,1,"Professional Services,B2B,Fitness,Fashion",2
+128,NextGen Content Marketing Plan,5,791,7234,5,2,10,16,5,4,2,5,"Gaming,Food,Digital Products",3
+129,Targeted Loyalty Programs Engagement,3,1374,4319,1,3,2,22,4,1,4,3,"Food,Restaurants,Retail",3
+130,Advanced Guerrilla Marketing Growth,1,1144,7451,4,2,10,28,1,3,3,1,"Gaming,Professional Services,Services,E-commerce",5
+131,Advanced Video Marketing Strategy,5,136,3002,2,5,2,15,4,3,4,1,Products,1
+132,Ultimate Email Marketing Engagement,1,774,5572,2,3,2,22,1,3,5,5,"News,Fashion,B2B,Real Estate",5
+133,AI-Driven Video Marketing Engagement,3,1083,7116,2,5,5,18,5,4,4,2,"Real Estate,Finance,News,Travel",5
+134,AI-Driven Webinars Strategy,1,1673,4968,4,1,7,15,2,2,2,5,"All,Retail,Manufacturing",5
+135,Advanced Podcast Advertising Campaign,4,1406,4312,1,4,2,16,2,1,2,4,"Products,Beauty,Local Business,Education",3
+136,Dynamic Guerrilla Marketing Engagement,3,276,8996,1,3,1,13,1,3,4,3,"Food,Products,All,Education",3
+137,Advanced SMS Marketing Plan,3,1409,7459,3,3,4,17,5,2,2,4,"Digital Products,Finance,Retail",1
+138,Ultimate SMS Marketing Plan,2,735,8865,2,4,6,26,3,3,3,3,"Retail,Finance,Professional Services,Travel",2
+139,AI-Driven SMS Marketing Outreach,4,1398,7534,5,5,2,17,5,2,5,5,"Digital Products,Lifestyle,Retail,Travel",2
+140,Targeted Pay-Per-Click Advertising Outreach,5,407,7885,3,3,9,10,3,3,5,1,"Food,Gaming,Travel,Lifestyle",2
+141,Targeted Video Marketing Growth,3,1416,9925,1,2,8,19,1,4,3,2,E-commerce,1
+142,Advanced SMS Marketing Growth,1,578,3276,2,4,5,25,5,2,1,4,"Gaming,Beauty,Events",1
+143,Hyper Loyalty Programs Outreach,4,1562,3922,5,4,10,18,3,1,3,3,"Real Estate,News,Restaurants",2
+144,Hyper User-Generated Content Plan,5,856,4730,3,1,3,17,3,3,4,2,"Local Business,Professional Services,Retail",3
+145,Ultimate Email Marketing Engagement,4,885,8574,4,1,6,24,2,5,4,2,"Products,All",4
+146,NextGen Native Advertising Outreach,4,1837,5526,2,3,2,14,5,1,5,1,"Food,Professional Services,News,Technology",1
+147,Hyper Webinars Plan,2,141,4211,5,3,10,23,3,2,4,4,"Products,Fitness,Manufacturing",1
+148,Dynamic Local SEO Campaign,5,1095,5492,5,2,2,28,3,2,4,4,"Education,Food",3
+149,NextGen Search Engine Optimization (SEO) Outreach,4,1339,5765,4,1,7,28,4,2,2,3,"Digital Products,Lifestyle,Finance,E-commerce",5
+150,Ultimate Community Marketing Growth,2,1966,3927,1,4,7,29,4,4,4,5,"Professional Services,Local Business,Retail",2
+151,Targeted Trade Shows & Events Plan,1,874,5355,1,5,2,25,2,4,4,4,"News,Services,Fashion",2
+152,Advanced Social Media Ads Strategy,5,189,9304,5,5,7,11,5,3,4,3,"All,Products",1
+153,Ultimate Native Advertising Plan,2,776,6129,5,1,9,18,3,3,5,1,"Retail,Finance,Restaurants",2
+154,Targeted Email Marketing Engagement,4,794,6721,4,1,9,21,4,5,4,2,E-commerce,5
+155,Dynamic PR Campaigns Strategy,2,1259,4851,2,3,3,30,2,5,3,1,Digital Products,4
+156,AI-Driven Pay-Per-Click Advertising Strategy,5,1721,3450,2,4,5,27,5,5,4,2,"Travel,Restaurants,News,Digital Products",5
+157,Ultimate PR Campaigns Plan,3,469,8514,3,1,4,28,5,2,1,4,"Lifestyle,Fitness,E-commerce",3
+158,Hyper Search Engine Optimization (SEO) Plan,1,358,9332,4,2,8,16,5,5,1,5,Fitness,4
+159,Dynamic Mobile App Marketing Campaign,4,1649,2476,4,4,9,17,2,1,4,5,"Finance,Events",1
+160,Hyper SMS Marketing Engagement,1,1222,5584,4,5,1,19,1,2,1,1,"Digital Products,Events,Retail",2
+161,Smart Guerrilla Marketing Campaign,5,1806,4229,3,4,9,19,4,4,3,4,"Professional Services,Beauty,Retail,E-commerce",1
+162,NextGen Native Advertising Growth,1,1594,3804,2,3,6,20,4,2,5,2,"Digital Products,News,Services",2
+163,Dynamic Customer Referral Programs Growth,4,782,8138,2,2,7,26,3,3,1,4,"Finance,Restaurants",3
+164,NextGen Conversational Marketing Growth,1,402,4188,2,5,1,27,5,3,3,2,"News,Manufacturing,E-commerce,Retail",5
+165,Dynamic Email Marketing Outreach,2,1488,2329,3,5,2,11,2,1,3,4,"News,Education",1
+166,Advanced Webinars Engagement,1,214,2563,2,5,10,10,2,2,2,5,"Food,Events,News,Travel",2
+167,Ultimate Webinars Growth,4,189,3940,2,4,1,10,4,5,2,4,Events,5
+168,NextGen Augmented Reality Marketing Outreach,5,344,9205,5,1,4,26,5,2,5,5,"Retail,Professional Services",1
+169,Ultimate Micro-Influencer Marketing Engagement,4,1200,5531,3,3,4,13,3,1,1,1,"Products,Entertainment,E-commerce,Services",5
+170,Dynamic SMS Marketing Outreach,2,564,6806,4,4,9,23,4,2,1,2,"Education,Lifestyle,Retail,Services",2
+171,Targeted Retargeting Campaigns Plan,4,766,9991,4,5,10,17,1,5,4,3,"Finance,Lifestyle",5
+172,Ultimate Interactive Content Engagement,3,1115,3454,2,5,5,17,2,2,4,1,Entertainment,4
+173,NextGen Community Marketing Engagement,2,710,3224,3,4,1,21,1,2,2,4,"Finance,Manufacturing,Products",1
+174,Targeted Customer Referral Programs Engagement,2,1783,6352,3,5,3,17,1,4,4,2,Entertainment,3
+175,Ultimate Podcast Advertising Growth,2,1891,5744,4,2,6,21,2,3,1,2,"News,Beauty,Restaurants,Fitness",5
+176,AI-Driven Loyalty Programs Outreach,1,1858,4945,5,3,10,16,1,4,3,2,"B2B,Gaming,Education,Finance",1
+177,AI-Driven Retargeting Campaigns Plan,2,1732,8968,2,2,10,11,4,4,3,5,"Entertainment,Local Business,Professional Services",3
+178,Smart Voice Search Optimization Engagement,5,205,6514,4,5,7,26,3,5,3,5,"Fashion,Digital Products,Entertainment,Finance",1
+179,NextGen Customer Referral Programs Outreach,4,1425,4962,2,4,8,12,4,3,3,1,Manufacturing,5
+180,Ultimate Trade Shows & Events Campaign,5,1910,5734,1,5,6,28,1,5,4,5,"Fashion,Beauty,Fitness",4
+181,Advanced Affiliate Marketing Campaign,3,263,9947,1,3,5,28,4,4,1,2,Travel,3
+182,Targeted Interactive Content Outreach,4,1952,3399,1,5,3,28,2,2,4,2,"B2B,Products,Fashion,Gaming",3
+183,Ultimate Voice Search Optimization Campaign,1,623,5032,5,1,3,21,5,3,1,2,Education,2
+184,Targeted Pay-Per-Click Advertising Plan,3,683,9674,5,1,6,13,5,2,1,1,"News,Technology",2
+185,Smart Webinars Engagement,5,187,9925,3,5,8,14,3,3,2,4,"Retail,Events,Real Estate",4
+186,NextGen Email Marketing Plan,1,987,4713,5,2,2,13,5,1,3,3,Gaming,4
+187,Advanced Pay-Per-Click Advertising Plan,4,1413,8767,1,2,5,22,4,4,4,2,"Events,Services,Finance,Manufacturing",4
+188,Targeted Email Marketing Campaign,2,293,5610,4,4,6,24,5,1,4,3,"Beauty,E-commerce,Fashion,Events",5
+189,NextGen Trade Shows & Events Outreach,1,237,4561,1,2,10,30,3,4,3,1,"Professional Services,Digital Products",4
+190,AI-Driven Guerrilla Marketing Plan,5,1207,7521,1,2,3,10,4,2,3,1,Manufacturing,2
+191,Ultimate Trade Shows & Events Outreach,2,1810,8845,3,3,2,14,5,3,3,2,"Education,Fashion,Fitness,B2B",2
+192,Targeted Outbound Sales Outreach,4,264,6918,2,1,2,23,4,4,3,4,"Professional Services,Manufacturing,Education,E-commerce",4
+193,Dynamic User-Generated Content Engagement,1,219,2837,5,2,10,25,3,2,3,1,"Manufacturing,All,Lifestyle",1
+194,AI-Driven Content Marketing Plan,5,156,2521,5,1,2,18,3,4,1,2,"B2B,Local Business,Real Estate,All",5
+195,NextGen PR Campaigns Outreach,1,357,7277,2,2,5,19,3,5,5,2,"Education,Beauty,Manufacturing,Fitness",1
+196,Targeted Mobile App Marketing Engagement,1,1995,3667,4,2,4,14,5,4,2,2,"Products,Professional Services,Gaming,Fashion",1
+197,Advanced Community Marketing Engagement,4,108,5959,4,1,4,16,2,1,5,5,"Fitness,Travel,Education",5
+198,Hyper SMS Marketing Strategy,5,1474,7663,1,3,2,24,2,4,3,1,"Fashion,Events,Gaming,Local Business",4
+199,Hyper Content Marketing Outreach,2,1882,4031,1,3,2,17,5,5,5,3,Real Estate,1
+200,Advanced Community Marketing Outreach,1,1562,7986,1,4,7,11,4,4,1,4,"Fitness,E-commerce,Professional Services,Education",4
+201,NextGen Podcast Advertising Strategy,2,1751,8752,3,3,7,30,5,2,4,1,"Food,Real Estate,Digital Products",2
+202,Advanced Local SEO Growth,4,864,8391,2,5,2,24,4,2,1,4,"Local Business,Events,All,Products",1
+203,Targeted Influencer Marketing Outreach,5,1418,5142,1,4,6,11,1,3,5,5,"Gaming,Fitness,Food,Products",4
+204,Ultimate Trade Shows & Events Strategy,2,1110,6099,3,4,3,16,3,2,4,2,Beauty,2
+205,Targeted Influencer Marketing Engagement,4,899,2123,3,2,2,19,1,3,2,4,"Local Business,News,Professional Services",2
+206,Dynamic Local SEO Plan,2,755,3392,1,4,2,27,5,5,2,2,"Entertainment,Products",3
+207,NextGen Search Engine Optimization (SEO) Plan,3,1712,2023,1,4,1,29,1,2,4,5,"SaaS,Food,Real Estate",3
+208,NextGen Interactive Content Campaign,1,1859,3756,1,4,3,21,1,1,3,1,"Fashion,Events",5
+209,Targeted Content Marketing Campaign,5,220,6704,2,1,10,26,1,2,3,2,Finance,1
+210,Smart Interactive Content Plan,4,508,7532,1,5,5,14,1,4,4,5,"Products,Beauty",2
+211,NextGen SMS Marketing Strategy,3,1522,2787,3,3,8,22,1,3,4,2,"Travel,Beauty,Education",3
+212,Advanced Loyalty Programs Plan,3,237,5971,3,2,10,25,3,4,1,3,"Beauty,Finance,News,B2B",1
+213,Targeted Micro-Influencer Marketing Campaign,2,864,6992,4,3,1,10,2,1,3,5,"Local Business,Food,Fitness",4
+214,Hyper Micro-Influencer Marketing Outreach,4,133,9886,1,2,4,12,4,3,1,2,"Local Business,Gaming",1
+215,Targeted Augmented Reality Marketing Engagement,1,639,6861,1,1,1,26,2,3,3,2,"Restaurants,Technology,Real Estate,Gaming",2
+216,NextGen Affiliate Marketing Strategy,1,873,9088,3,1,9,28,1,1,3,5,"Gaming,Manufacturing,Education",1
+217,NextGen Augmented Reality Marketing Growth,5,485,2498,4,5,1,22,2,4,4,3,Events,2
+218,NextGen Voice Search Optimization Growth,5,229,9888,4,4,10,28,4,4,1,2,"Finance,Entertainment,Fashion",5
+219,Ultimate Loyalty Programs Plan,1,775,3051,2,3,2,22,4,5,4,3,"News,Real Estate,Finance,Services",3
+220,Advanced Native Advertising Growth,2,845,7054,2,3,8,17,4,3,2,5,"Fitness,Events,Travel,Technology",5
+221,Dynamic Customer Referral Programs Engagement,1,1006,2879,3,5,7,13,5,3,3,1,"Retail,All,B2B",4
+222,Ultimate Trade Shows & Events Engagement,1,344,6228,2,3,9,17,1,3,2,3,"Beauty,Retail",1
+223,Targeted Webinars Outreach,2,136,6339,5,3,2,30,5,1,5,3,Food,1
+224,Hyper Interactive Content Engagement,3,1713,6873,1,4,10,25,1,3,3,5,Fitness,3
+225,Dynamic Podcast Advertising Strategy,5,1183,4270,1,5,10,10,4,4,1,3,SaaS,3
+226,Advanced Influencer Marketing Engagement,5,1462,7435,2,3,2,11,3,1,5,2,"Manufacturing,All",1
+227,Targeted Content Marketing Campaign,1,287,2075,1,4,7,29,5,3,3,1,"Food,Events,E-commerce,Entertainment",5
+228,Advanced Affiliate Marketing Outreach,4,1167,7451,2,1,9,12,3,3,1,5,"Entertainment,News",5
+229,Targeted Community Marketing Plan,1,1119,9312,1,1,3,28,4,3,1,4,"Products,News,SaaS",3
+230,Smart Podcast Advertising Strategy,4,929,2561,3,1,6,13,5,4,1,5,"Fitness,Professional Services,Fashion,Beauty",2
+231,Targeted Voice Search Optimization Growth,4,690,6582,1,1,9,11,3,2,5,4,"Digital Products,B2B",3
+232,Hyper SMS Marketing Plan,1,1897,8060,5,2,4,13,2,1,3,4,"E-commerce,Products,Travel",5
+233,NextGen Conversational Marketing Engagement,1,846,3178,1,2,2,13,4,4,3,1,"Finance,Gaming,Technology,Travel",2
+234,AI-Driven Mobile App Marketing Plan,2,379,2073,1,4,9,23,5,1,5,2,"All,Food",4
+235,Targeted Podcast Advertising Plan,1,1283,9016,4,4,2,18,2,1,1,5,News,1
+236,NextGen Loyalty Programs Plan,5,938,6022,1,1,1,21,5,2,5,1,Real Estate,1
+237,Dynamic Micro-Influencer Marketing Plan,2,631,3978,1,4,9,16,5,2,1,4,"Food,Fashion,Travel,B2B",1
+238,Hyper Mobile App Marketing Outreach,4,615,3673,4,4,8,22,5,1,2,1,"Lifestyle,Restaurants,Real Estate,Technology",5
+239,Dynamic Local SEO Campaign,2,1174,8512,3,3,10,27,5,1,2,2,Services,2
+240,Hyper Pay-Per-Click Advertising Growth,2,916,2685,3,1,10,21,2,4,5,5,"Fashion,Professional Services",2
+241,NextGen Local SEO Plan,2,1674,2497,1,4,3,27,4,3,1,1,B2B,4
+242,Hyper Influencer Marketing Campaign,4,436,8738,3,3,5,21,2,5,5,5,"Lifestyle,Education",3
+243,Targeted Conversational Marketing Growth,1,1637,6265,4,3,1,21,3,5,5,4,Products,1
+244,Ultimate Outbound Sales Strategy,2,280,3623,3,3,7,22,3,1,2,5,"Finance,Restaurants",3
+245,NextGen Loyalty Programs Engagement,2,1310,3363,1,5,10,10,1,1,5,4,"Restaurants,B2B,Beauty",5
+246,Advanced Voice Search Optimization Strategy,1,1211,8269,5,3,4,20,2,4,4,4,"News,Real Estate,All,Gaming",3
+247,AI-Driven LinkedIn Marketing Outreach,5,1134,9363,2,5,5,24,2,5,1,5,"Digital Products,B2B,Entertainment,Services",2
+248,Smart Search Engine Optimization (SEO) Campaign,3,487,3848,3,4,10,25,1,1,2,5,"Digital Products,Education",5
+249,NextGen Interactive Content Plan,4,1165,2634,1,3,7,11,2,4,2,4,Retail,2
+250,NextGen Search Engine Optimization (SEO) Strategy,1,160,4223,2,5,10,23,5,2,3,1,Beauty,3
+251,Advanced Search Engine Optimization (SEO) Engagement,3,201,9158,4,2,10,22,3,1,3,3,"All,Professional Services",5
+252,NextGen Micro-Influencer Marketing Outreach,4,1896,9404,2,5,3,12,1,1,1,2,"Beauty,Events,Digital Products,Travel",1
+253,Dynamic Retargeting Campaigns Strategy,5,187,2279,3,4,2,19,1,2,4,4,E-commerce,3
+254,Hyper Email Marketing Plan,1,225,4572,3,2,4,17,3,1,4,4,"Entertainment,Food",3
+255,Dynamic Trade Shows & Events Campaign,2,306,4508,4,3,3,17,5,4,5,4,Lifestyle,3
+256,Hyper Loyalty Programs Growth,1,733,7150,4,3,2,20,1,3,3,3,"Restaurants,Gaming",4
+257,Advanced Guerrilla Marketing Plan,2,1519,3001,3,5,5,30,3,2,1,2,"Services,SaaS",1
+258,Hyper Social Media Marketing Outreach,3,1454,8510,5,2,4,28,4,1,3,4,"Local Business,Lifestyle,Digital Products,Fashion",5
+259,Hyper Affiliate Marketing Engagement,3,1374,4090,4,4,8,28,3,3,5,2,"Services,Fitness",3
+260,Hyper Affiliate Marketing Strategy,1,913,4126,1,5,7,19,1,5,3,2,Restaurants,4
+261,NextGen Customer Referral Programs Growth,4,426,6962,5,2,9,22,1,3,3,3,Fitness,1
+262,Advanced Local SEO Plan,2,1686,2944,4,4,9,21,4,2,3,3,"News,Lifestyle,SaaS",3
+263,Targeted Mobile App Marketing Campaign,1,1245,2033,3,3,8,28,3,4,4,5,"Lifestyle,All,Services",2
+264,NextGen Search Engine Optimization (SEO) Campaign,2,175,6157,2,2,7,13,4,1,3,1,"Entertainment,Manufacturing,B2B",3
+265,Targeted LinkedIn Marketing Growth,1,672,6443,1,3,2,15,2,4,4,5,All,5
+266,Hyper Trade Shows & Events Strategy,3,1514,2737,3,3,1,20,1,4,5,5,"Travel,Education,B2B",1
+267,Dynamic Webinars Plan,3,1741,9630,3,5,4,22,3,2,1,4,"Beauty,SaaS",1
+268,Hyper Email Marketing Strategy,3,1362,3882,5,1,3,24,5,3,4,1,B2B,2
+269,Targeted PR Campaigns Outreach,3,795,4552,1,3,3,22,5,4,3,1,Travel,5
+270,Hyper Social Media Marketing Engagement,2,1056,3403,3,1,1,15,5,4,1,5,Education,3
+271,Advanced Interactive Content Strategy,1,1639,3425,3,4,10,21,3,3,5,3,"Real Estate,Gaming,Events",5
+272,Targeted Guerrilla Marketing Strategy,4,880,2970,4,2,1,27,2,1,3,3,"Fashion,B2B",2
+273,Hyper Outbound Sales Outreach,2,728,5202,1,5,3,23,3,3,1,2,"Professional Services,Restaurants,Real Estate,Lifestyle",1
+274,Advanced Trade Shows & Events Growth,4,1943,4526,3,1,4,19,2,1,4,3,"Travel,Fitness",5
+275,Ultimate Community Marketing Outreach,5,101,5224,3,5,9,21,3,4,2,5,SaaS,1
+276,AI-Driven Outbound Sales Outreach,5,584,5302,2,4,2,19,2,4,2,1,"All,Travel,Beauty,Local Business",1
+277,Hyper Augmented Reality Marketing Strategy,5,1182,5012,1,2,6,10,3,2,2,5,E-commerce,4
+278,Smart Local SEO Outreach,3,819,7305,3,2,10,29,5,5,4,1,"Beauty,Manufacturing,SaaS,Food",1
+279,NextGen Email Marketing Outreach,3,1807,2191,1,4,5,25,2,4,1,3,Digital Products,3
+280,Dynamic Social Media Ads Plan,5,1340,9219,1,2,8,25,4,2,2,5,"Gaming,Education,Fashion,Local Business",3
+281,Ultimate Video Marketing Plan,5,1874,9446,3,3,1,28,2,3,5,2,"Beauty,Finance,Travel,B2B",1
+282,Advanced PR Campaigns Engagement,4,482,8999,4,5,2,20,1,1,3,2,"E-commerce,Technology,Travel",2
+283,Hyper Retargeting Campaigns Growth,2,1945,7058,3,3,1,23,2,3,1,4,"Events,Education,Beauty,SaaS",3
+284,Dynamic Email Marketing Growth,5,1520,3213,4,4,6,21,3,5,2,1,"Real Estate,Finance,Professional Services,News",2
+285,Ultimate Voice Search Optimization Growth,1,473,8506,5,4,2,15,3,2,4,4,"Lifestyle,Events,Manufacturing",5
+286,Hyper Podcast Advertising Growth,2,377,9340,1,3,5,18,3,3,1,2,"SaaS,Gaming",3
+287,Targeted Podcast Advertising Campaign,2,1868,8090,4,2,3,20,3,4,3,5,"Finance,Education,Events,Real Estate",3
+288,Dynamic Webinars Growth,2,863,3062,1,4,10,14,4,3,1,4,Travel,3
+289,Hyper Search Engine Optimization (SEO) Strategy,5,1010,8946,2,5,1,13,5,3,5,5,E-commerce,4
+290,Ultimate Native Advertising Growth,2,1254,6257,5,2,9,29,1,4,5,2,"Restaurants,Real Estate,Professional Services,Technology",5
+291,Ultimate Customer Referral Programs Outreach,3,1471,4224,4,2,6,11,5,5,1,1,"E-commerce,Entertainment",4
+292,Hyper Retargeting Campaigns Growth,4,673,4678,4,3,8,18,5,3,4,4,"Food,B2B",1
+293,Dynamic Augmented Reality Marketing Campaign,1,1855,9656,5,5,6,28,4,4,3,2,"Education,Products,All,Events",5
+294,AI-Driven Trade Shows & Events Growth,1,1801,3531,5,3,4,23,1,4,4,2,"News,Restaurants",4
+295,Targeted Search Engine Optimization (SEO) Growth,4,1108,7585,4,2,2,16,4,2,3,1,"Lifestyle,Travel",4
+296,Targeted Trade Shows & Events Outreach,5,1189,9617,4,5,9,12,5,1,4,2,Manufacturing,5
+297,Advanced PR Campaigns Growth,2,1648,2121,3,3,7,12,5,2,1,3,"Services,Products,B2B",1
+298,AI-Driven User-Generated Content Engagement,3,214,9105,4,2,3,15,3,5,3,2,"Products,Events,Services",5
+299,Advanced Retargeting Campaigns Plan,2,834,8964,1,2,6,30,5,1,3,3,"Manufacturing,Professional Services",3
+300,AI-Driven Interactive Content Engagement,4,626,3445,4,3,6,22,4,4,2,3,"Finance,Digital Products",1
+301,NextGen Community Marketing Growth,4,530,9244,5,1,4,16,2,4,1,1,"Food,Services,B2B",4
+302,Advanced Native Advertising Outreach,1,1571,8910,5,5,5,11,2,5,5,5,"Restaurants,Travel",5
+303,Targeted PR Campaigns Growth,2,1434,5619,3,1,2,26,2,1,1,2,Entertainment,5
+304,Hyper LinkedIn Marketing Engagement,1,1072,7305,2,4,9,17,3,5,3,1,"Professional Services,SaaS,Products,B2B",5
+305,Ultimate Webinars Engagement,2,1341,7086,1,4,4,17,5,5,2,4,Gaming,3
+306,Ultimate Customer Referral Programs Strategy,2,708,3419,4,3,8,15,3,4,2,5,"Digital Products,Finance,All",2
+307,Smart Affiliate Marketing Plan,2,1517,3802,1,5,5,10,5,2,4,4,"Beauty,SaaS",4
+308,NextGen Micro-Influencer Marketing Growth,3,1377,3173,3,3,5,13,5,1,1,2,"News,E-commerce,Fashion,Education",2
+309,NextGen Retargeting Campaigns Campaign,1,1906,8929,3,2,6,12,4,4,2,1,"B2B,Entertainment,Products",2
+310,Ultimate Conversational Marketing Engagement,2,1537,5466,1,2,10,13,2,4,1,2,SaaS,4
+311,Smart SMS Marketing Strategy,1,923,8168,3,4,4,21,4,2,2,3,News,4
+312,Dynamic Pay-Per-Click Advertising Plan,5,968,6107,1,3,4,15,4,2,3,1,"Retail,Professional Services",5
+313,Targeted Affiliate Marketing Campaign,1,1739,7238,1,4,4,13,2,4,2,4,"Manufacturing,Professional Services",4
+314,Dynamic Community Marketing Strategy,1,1099,7236,1,3,10,13,3,3,4,5,"Fitness,Events",5
+315,Hyper Video Marketing Outreach,4,1977,9966,3,5,3,28,4,3,4,5,"Events,Fashion,Finance",5
+316,Advanced Video Marketing Engagement,1,706,4097,4,2,3,24,5,4,3,3,Digital Products,5
+317,Targeted Webinars Campaign,1,1286,7962,2,3,1,11,2,3,1,5,"Entertainment,Travel,E-commerce",5
+318,Ultimate Conversational Marketing Growth,1,792,7739,5,1,3,11,5,3,1,1,"Retail,B2B,Travel,Local Business",1
+319,Dynamic Affiliate Marketing Growth,1,1540,5017,5,5,2,16,5,5,3,4,"Digital Products,Real Estate,Fitness,E-commerce",1
+320,Dynamic User-Generated Content Campaign,3,1521,7052,2,1,1,16,2,5,3,1,"Entertainment,Retail,Fashion,Education",2
+321,Hyper Customer Referral Programs Plan,3,1709,7821,3,1,2,15,1,1,1,4,"SaaS,Food",1
+322,Dynamic LinkedIn Marketing Strategy,2,1449,5927,2,2,6,17,1,5,1,3,"Professional Services,Digital Products,Local Business",5
+323,Advanced Search Engine Optimization (SEO) Strategy,3,866,6452,5,4,2,25,1,2,3,3,"Professional Services,All",5
+324,AI-Driven PR Campaigns Campaign,4,1872,8446,1,1,7,13,4,2,2,3,E-commerce,1
+325,Ultimate Guerrilla Marketing Growth,1,1275,4419,5,5,9,16,1,4,3,4,"All,Gaming",4
+326,AI-Driven Podcast Advertising Growth,5,1328,3201,5,3,5,26,3,5,2,1,"Technology,Professional Services,Fashion,Lifestyle",2
+327,Smart Voice Search Optimization Strategy,4,950,3320,1,4,8,19,5,5,4,4,"Beauty,Real Estate",3
+328,Advanced Interactive Content Engagement,5,501,6575,5,3,1,21,3,2,2,4,"Professional Services,Services,Real Estate",4
+329,Hyper Social Media Marketing Plan,3,1699,5419,3,5,2,11,1,3,1,5,Beauty,3
+330,Ultimate Content Marketing Engagement,3,547,2682,2,1,8,20,2,1,1,2,B2B,2
+331,Hyper Podcast Advertising Plan,4,1912,9714,4,3,3,28,1,5,4,3,"Entertainment,B2B,Events",2
+332,Targeted Local SEO Campaign,3,672,7854,2,4,4,25,3,1,3,1,"Food,E-commerce,SaaS",1
+333,Targeted Local SEO Outreach,2,1172,3390,5,5,1,25,5,3,2,5,"Food,Fashion",5
+334,Targeted PR Campaigns Campaign,1,1277,7632,4,2,1,14,3,2,4,1,"Products,SaaS",1
+335,Targeted Augmented Reality Marketing Outreach,1,106,8298,1,3,1,13,2,3,5,3,"Professional Services,Fitness,Products",2
+336,Hyper Retargeting Campaigns Growth,3,117,4121,2,1,9,17,2,3,5,4,"Products,Local Business,Food",5
+337,AI-Driven Podcast Advertising Outreach,1,1808,7936,3,1,6,10,3,3,2,3,"Products,B2B",5
+338,Ultimate Social Media Ads Engagement,1,1561,6258,5,4,10,22,3,1,1,1,"News,Food",5
+339,NextGen Trade Shows & Events Plan,2,1856,4753,1,2,2,26,2,1,2,3,"Food,Finance,News",2
+340,Smart Retargeting Campaigns Engagement,2,674,3552,3,1,5,15,2,4,2,2,"Local Business,Technology,Gaming",5
+341,Targeted Influencer Marketing Plan,5,1053,3001,4,2,1,14,4,3,2,4,"Real Estate,Retail,Professional Services",3
+342,Ultimate Content Marketing Strategy,1,1991,6418,2,5,10,15,3,4,3,4,Fitness,2
+343,Ultimate Affiliate Marketing Plan,2,1834,2921,2,4,8,29,3,1,2,3,Restaurants,2
+344,Targeted Loyalty Programs Engagement,3,1110,3908,3,3,7,21,2,5,1,2,"Beauty,Gaming,Real Estate",5
+345,Ultimate Native Advertising Engagement,2,1116,5679,3,5,3,15,5,3,2,4,Travel,5
+346,NextGen Podcast Advertising Plan,1,633,8879,5,2,7,23,4,3,4,4,Retail,3
+347,Smart Guerrilla Marketing Outreach,1,1994,9785,1,2,10,22,5,1,1,3,Food,3
+348,AI-Driven Loyalty Programs Campaign,2,1179,6796,1,5,4,15,3,3,4,3,"Fashion,SaaS,Technology",5
+349,Advanced Micro-Influencer Marketing Campaign,3,1822,9846,3,5,5,10,1,1,1,3,"Retail,Travel,Gaming",1
+350,NextGen Pay-Per-Click Advertising Campaign,3,1572,6006,1,5,2,21,1,3,5,2,"Finance,B2B,Professional Services",4
+351,NextGen Loyalty Programs Engagement,2,1524,2126,3,2,6,12,2,3,4,3,"Digital Products,Food,Restaurants,B2B",1
+352,Dynamic Search Engine Optimization (SEO) Outreach,3,727,8940,3,4,8,14,1,2,5,4,Travel,4
+353,Dynamic Affiliate Marketing Plan,4,1832,8674,5,4,2,11,3,2,5,3,News,4
+354,Targeted Email Marketing Outreach,5,1230,6187,5,1,5,10,1,4,4,4,"Local Business,Finance,Events",3
+355,Dynamic LinkedIn Marketing Campaign,1,517,2803,3,2,4,27,3,4,2,3,"E-commerce,Retail",4
+356,Advanced Micro-Influencer Marketing Engagement,3,415,7961,4,1,10,25,1,1,2,2,"Fitness,News,Beauty,Gaming",3
+357,NextGen Community Marketing Plan,3,1750,4356,4,2,4,20,2,5,3,4,"E-commerce,Finance",3
+358,Targeted User-Generated Content Engagement,5,585,2362,1,4,9,11,5,3,1,5,"News,Entertainment",3
+359,Smart Local SEO Plan,1,860,7662,5,1,3,29,5,1,5,5,"Services,Real Estate,SaaS,Lifestyle",2
+360,Ultimate Native Advertising Campaign,1,1971,7852,5,4,4,12,5,4,3,3,"Restaurants,Finance,E-commerce,B2B",5
+361,AI-Driven Micro-Influencer Marketing Outreach,5,273,8375,4,3,2,11,4,1,5,3,"Entertainment,E-commerce,Education,SaaS",3
+362,Dynamic Influencer Marketing Campaign,1,1428,3161,1,2,6,23,2,3,4,1,"Gaming,Local Business",5
+363,Ultimate Influencer Marketing Outreach,2,1061,7161,4,3,3,11,2,5,2,4,"B2B,SaaS,Local Business,Gaming",2
+364,Smart Email Marketing Strategy,5,1656,4095,3,1,9,14,5,4,5,2,"Fitness,Restaurants,Real Estate",4
+365,Smart Guerrilla Marketing Campaign,4,883,2709,3,4,3,10,3,5,4,2,"Finance,Fitness,Professional Services,News",3
+366,NextGen Trade Shows & Events Campaign,5,471,5094,5,5,6,28,3,2,1,5,"Real Estate,Retail,Professional Services",3
+367,NextGen Affiliate Marketing Engagement,4,1257,5442,4,4,3,28,2,1,2,1,"SaaS,Travel",4
+368,Advanced Mobile App Marketing Growth,5,395,2676,5,5,7,25,3,2,1,4,"SaaS,Real Estate,Products,Entertainment",5
+369,AI-Driven LinkedIn Marketing Outreach,1,1759,5549,5,2,5,14,2,2,4,4,"Beauty,Gaming",5
+370,Advanced Local SEO Campaign,2,901,4699,2,1,4,26,2,2,1,3,"Events,Digital Products,B2B,Lifestyle",1
+371,Hyper Guerrilla Marketing Engagement,1,1021,8891,1,3,5,19,4,2,5,2,"Fashion,Gaming",1
+372,Targeted Guerrilla Marketing Strategy,5,562,8555,3,5,3,26,5,3,5,4,"Food,Restaurants,Digital Products,Fashion",2
+373,Dynamic User-Generated Content Growth,5,1359,2001,2,3,3,23,3,2,3,2,"E-commerce,Retail,Products,Services",5
+374,Advanced Retargeting Campaigns Outreach,1,115,3170,1,5,3,25,5,2,2,5,SaaS,5
+375,Targeted Webinars Engagement,2,360,5254,5,4,2,20,1,4,2,4,SaaS,5
+376,AI-Driven PR Campaigns Campaign,2,173,8783,3,3,7,16,1,1,2,2,"All,Gaming,B2B",3
+377,Advanced LinkedIn Marketing Campaign,4,1225,7138,1,3,7,16,2,5,3,2,"Travel,Technology",1
+378,Hyper LinkedIn Marketing Engagement,1,1909,5982,3,5,9,23,3,5,3,4,"Travel,SaaS",1
+379,Advanced Podcast Advertising Growth,2,563,6821,5,4,9,17,1,4,5,1,"Restaurants,Professional Services,Events,Fashion",1
+380,Ultimate User-Generated Content Outreach,3,686,9482,3,1,3,13,5,2,3,3,"Fitness,Digital Products,Entertainment,Travel",5
+381,NextGen Augmented Reality Marketing Outreach,5,1273,4816,2,3,4,19,4,1,1,4,"Digital Products,Finance,Technology",3
+382,NextGen Augmented Reality Marketing Engagement,3,712,7315,3,4,5,10,5,4,5,5,Services,5
+383,Dynamic Voice Search Optimization Growth,3,367,9928,4,5,3,13,4,1,2,3,"Restaurants,All,Services,Finance",5
+384,NextGen Mobile App Marketing Strategy,3,1128,7873,3,5,9,25,5,2,1,5,Technology,2
+385,Targeted Trade Shows & Events Engagement,3,864,7704,1,5,8,14,1,1,4,2,Fitness,2
+386,Targeted Conversational Marketing Plan,3,750,6586,1,2,1,13,3,3,5,3,"Fashion,SaaS,Food,Local Business",4
+387,Ultimate Micro-Influencer Marketing Engagement,5,912,5756,3,5,2,12,3,4,4,1,Retail,3
+388,Ultimate Video Marketing Plan,5,102,7993,2,2,10,21,5,5,4,1,"Entertainment,Finance",5
+389,Targeted Native Advertising Plan,3,1511,2157,1,3,9,26,3,4,5,1,Events,5
+390,Ultimate Podcast Advertising Growth,4,902,5396,1,4,8,21,4,1,1,5,"News,Beauty,Events,Food",1
+391,Targeted Interactive Content Engagement,4,1658,6087,2,3,2,15,1,4,4,5,Finance,4
+392,AI-Driven Social Media Marketing Strategy,4,1662,2521,2,3,5,21,5,1,5,5,"Retail,Real Estate",3
+393,Targeted PR Campaigns Plan,3,1194,8633,5,5,10,23,1,2,4,3,"All,Events,Technology",5
+394,Smart Video Marketing Outreach,1,1416,7231,2,5,4,19,2,3,1,5,"Professional Services,Retail,Fitness",1
+395,Smart Trade Shows & Events Strategy,5,360,3753,4,4,2,27,5,2,5,2,"Manufacturing,Restaurants,SaaS,Events",5
+396,Targeted Content Marketing Outreach,1,490,4676,2,2,5,30,2,2,3,5,"Manufacturing,News,Fashion,Real Estate",3
+397,NextGen Webinars Engagement,3,1056,7940,3,4,6,27,3,4,4,3,"Professional Services,Restaurants",1
+398,Ultimate Trade Shows & Events Plan,3,1012,8839,5,1,1,22,3,5,5,3,"Lifestyle,Digital Products",4
+399,AI-Driven Affiliate Marketing Strategy,3,1145,6175,3,3,6,23,4,2,5,1,Retail,1
+400,Smart Webinars Plan,4,1605,8195,4,1,3,19,3,3,2,4,Professional Services,2
+401,Ultimate Influencer Marketing Campaign,1,1067,3581,4,2,1,24,3,2,5,4,Local Business,3
+402,Advanced Video Marketing Campaign,1,1257,8429,3,2,1,30,1,3,4,4,"All,Digital Products,Technology",4
+403,NextGen Community Marketing Plan,1,223,3620,2,5,3,10,4,2,3,1,"Real Estate,Food",2
+404,Hyper Customer Referral Programs Strategy,4,914,7638,1,2,5,28,3,3,2,2,"Travel,B2B",3
+405,Smart Webinars Outreach,1,998,4635,1,4,10,26,3,1,4,3,"Travel,Education",1
+406,Hyper Customer Referral Programs Strategy,3,1531,2354,5,4,2,15,3,2,1,5,"B2B,SaaS,Real Estate,Gaming",3
+407,Advanced Affiliate Marketing Strategy,2,507,9026,2,2,4,17,4,3,1,2,"Education,Manufacturing,Finance",4
+408,NextGen Community Marketing Plan,2,151,5269,3,1,9,11,2,1,1,1,"Finance,Beauty,Fashion",5
+409,Hyper Trade Shows & Events Outreach,4,1414,8047,2,4,3,10,4,1,1,2,Beauty,2
+410,AI-Driven Outbound Sales Plan,3,1186,9051,1,2,9,23,1,1,5,2,"SaaS,Food,Fitness",2
+411,Ultimate Social Media Ads Growth,2,724,7755,2,2,8,11,4,4,3,2,"Retail,Food",3
+412,NextGen Social Media Ads Growth,1,1070,3802,2,2,10,24,3,5,3,4,"Products,E-commerce,Entertainment,SaaS",2
+413,AI-Driven Community Marketing Campaign,4,1945,8586,4,3,3,17,3,4,5,4,"B2B,Technology,Fitness",3
+414,Smart Social Media Ads Strategy,4,825,2792,5,5,5,27,3,2,2,4,"News,SaaS,Events,Professional Services",2
+415,Dynamic Voice Search Optimization Growth,3,1986,6044,3,4,5,12,3,4,3,2,Beauty,2
+416,Ultimate Webinars Growth,2,1115,3735,2,2,7,28,3,5,5,1,"Digital Products,Local Business",1
+417,AI-Driven Voice Search Optimization Growth,2,1561,6921,1,2,10,23,3,5,1,2,"Finance,Fitness",2
+418,Ultimate Conversational Marketing Plan,3,914,5821,3,2,5,26,5,4,4,1,"Retail,Education,Travel",4
+419,Ultimate SMS Marketing Plan,4,479,8725,2,1,3,15,1,2,3,5,"Local Business,Travel,Digital Products",3
+420,Smart Social Media Ads Outreach,5,815,9254,4,2,8,29,3,1,3,1,"Fitness,Retail",5
+421,Ultimate Influencer Marketing Outreach,1,120,5599,5,2,2,25,1,4,1,4,"News,Digital Products,Travel",4
+422,Targeted Outbound Sales Plan,4,492,5658,1,4,1,24,4,2,4,3,"Professional Services,Fitness,Services,News",4
+423,Dynamic Video Marketing Growth,4,859,3951,2,3,1,20,5,5,2,4,"Fashion,Technology",4
+424,Ultimate Guerrilla Marketing Outreach,5,986,6267,3,1,9,15,4,2,5,3,"Manufacturing,Real Estate",2
+425,Smart Social Media Marketing Strategy,4,1155,7177,4,2,10,12,2,1,2,1,All,3
+426,Advanced PR Campaigns Campaign,2,1577,4881,3,4,6,10,1,1,5,4,"Lifestyle,Local Business",4
+427,Hyper Outbound Sales Growth,5,1461,2806,4,3,2,29,5,2,2,2,"Professional Services,Beauty",5
+428,Advanced Trade Shows & Events Strategy,2,1383,8249,5,1,8,17,4,5,2,2,"Local Business,Services,Gaming",5
+429,Hyper Retargeting Campaigns Campaign,4,415,8080,5,4,3,10,4,3,2,1,"Fashion,Beauty,Retail,Events",2
+430,NextGen Loyalty Programs Outreach,2,397,4708,5,3,4,21,2,2,2,3,Fitness,1
+431,Smart Content Marketing Strategy,2,853,6328,1,1,10,10,2,2,2,3,Professional Services,5
+432,Targeted Affiliate Marketing Campaign,3,1322,8403,2,2,10,21,5,1,4,2,"Events,Products,All,Digital Products",2
+433,Hyper Affiliate Marketing Plan,5,1678,6252,2,1,6,17,3,2,3,5,"Fashion,Retail,Travel,Food",3
+434,Smart Micro-Influencer Marketing Strategy,2,1031,4057,3,4,8,10,2,2,1,4,"Restaurants,Professional Services,Digital Products,Retail",3
+435,AI-Driven SMS Marketing Campaign,2,1503,9363,1,3,6,24,1,4,4,5,Products,2
+436,Hyper Mobile App Marketing Outreach,5,884,7031,1,4,10,27,3,3,2,3,"All,Manufacturing,Beauty",3
+437,AI-Driven Influencer Marketing Campaign,2,1221,9646,1,3,10,17,3,4,3,1,"Manufacturing,Finance",2
+438,Ultimate PR Campaigns Plan,1,274,3463,2,5,6,24,5,1,1,5,"Beauty,Education,Digital Products",4
+439,Hyper Conversational Marketing Plan,4,1785,4176,3,4,7,26,4,4,1,4,"Products,Restaurants,Fashion,Events",3
+440,Ultimate Local SEO Outreach,1,1367,3129,2,4,9,12,3,3,5,4,Real Estate,4
+441,Ultimate Webinars Engagement,4,1150,7696,1,2,7,13,4,2,1,5,Fitness,4
+442,Dynamic Guerrilla Marketing Plan,2,1811,8636,3,5,3,29,3,3,4,5,"E-commerce,Events,Restaurants,Real Estate",4
+443,Targeted Outbound Sales Plan,3,376,9131,5,5,6,26,2,1,4,3,"Products,Retail,Real Estate",4
+444,AI-Driven Email Marketing Campaign,4,415,8278,5,4,7,20,2,2,5,3,"Gaming,Local Business,Fashion,Digital Products",2
+445,Ultimate Pay-Per-Click Advertising Plan,3,1869,3945,1,2,3,23,3,3,1,4,Education,1
+446,Targeted Augmented Reality Marketing Plan,2,483,9755,2,2,8,13,1,2,3,1,Events,1
+447,Hyper Micro-Influencer Marketing Outreach,4,118,4951,4,4,6,16,4,3,5,2,E-commerce,5
+448,Targeted Affiliate Marketing Growth,5,694,9161,1,4,10,12,1,1,4,2,"Manufacturing,Beauty,Professional Services,Food",2
+449,Hyper Podcast Advertising Plan,5,1218,9074,3,1,8,25,4,4,2,1,"Lifestyle,Local Business",4
+450,AI-Driven Micro-Influencer Marketing Growth,3,1886,3777,4,3,9,10,1,5,4,1,"Fitness,Gaming",5
+451,Targeted Native Advertising Campaign,1,1573,9403,5,1,7,17,1,5,1,1,Lifestyle,5
+452,Ultimate Conversational Marketing Growth,2,256,3672,4,2,8,21,3,1,5,3,"Entertainment,Lifestyle",5
+453,Hyper Native Advertising Growth,5,1333,6957,3,5,1,14,5,3,2,4,"SaaS,Products",2
+454,Dynamic Community Marketing Outreach,5,217,2923,3,1,10,20,5,3,2,3,"Fitness,Professional Services,B2B,Products",5
+455,Targeted Email Marketing Growth,2,685,3863,2,4,7,11,4,1,2,5,"E-commerce,Gaming",2
+456,Smart Customer Referral Programs Strategy,1,106,7161,5,3,10,14,5,2,4,4,"Beauty,Digital Products,Lifestyle,SaaS",4
+457,Dynamic Trade Shows & Events Engagement,4,467,4287,4,5,4,18,3,4,1,2,Fitness,5
+458,Advanced Video Marketing Campaign,2,1809,5046,4,4,3,26,4,4,2,5,Lifestyle,5
+459,NextGen Email Marketing Growth,3,1006,8127,5,4,6,24,4,1,1,4,"Beauty,Travel,Food,SaaS",3
+460,Ultimate Influencer Marketing Growth,5,1603,4425,2,1,6,28,2,1,1,5,"Technology,Food",2
+461,Ultimate Guerrilla Marketing Outreach,2,1911,3235,2,2,9,30,4,1,2,4,"SaaS,Fitness,Restaurants",1
+462,Hyper Retargeting Campaigns Campaign,3,617,9205,3,3,8,12,4,5,3,5,Retail,3
+463,Advanced Social Media Marketing Campaign,4,1650,7405,1,4,1,28,4,1,5,1,"SaaS,Fitness",2
+464,Targeted Conversational Marketing Strategy,4,1755,2288,1,4,8,27,3,3,2,3,"SaaS,Manufacturing,Real Estate,Restaurants",1
+465,Targeted Video Marketing Outreach,5,1357,7021,2,1,5,24,4,3,4,3,Fitness,5
+466,Advanced Micro-Influencer Marketing Campaign,5,1709,3757,5,5,2,23,3,1,4,4,"Technology,Fitness,SaaS",5
+467,Advanced Social Media Marketing Engagement,5,611,6646,5,2,9,10,2,1,3,4,"Beauty,Travel,Manufacturing,SaaS",2
+468,Dynamic LinkedIn Marketing Growth,4,1261,3020,5,5,4,10,5,5,3,4,E-commerce,4
+469,Smart Video Marketing Growth,3,1615,5384,2,2,9,10,5,4,3,3,"Real Estate,Digital Products,Products",4
+470,Advanced Outbound Sales Outreach,2,1264,9921,2,2,3,20,5,4,5,5,"Education,Food,Events,Professional Services",1
+471,Targeted Conversational Marketing Strategy,4,1828,6812,5,1,7,14,2,4,3,4,"Gaming,SaaS",3
+472,Smart Influencer Marketing Engagement,2,202,7860,5,5,8,15,3,4,1,4,"Local Business,All",5
+473,Dynamic Native Advertising Engagement,5,1392,6865,3,5,9,14,4,4,5,2,Education,4
+474,Ultimate Community Marketing Campaign,5,864,6949,1,4,4,22,2,5,1,4,"Manufacturing,Education,B2B",4
+475,Ultimate Influencer Marketing Plan,2,1013,3612,5,2,3,28,5,3,2,4,Restaurants,4
+476,NextGen Customer Referral Programs Plan,3,984,8297,5,1,3,13,1,5,2,5,"Beauty,SaaS",1
+477,Targeted Voice Search Optimization Strategy,1,894,3126,2,2,9,17,3,4,1,2,"Fitness,Technology",3
+478,Advanced Mobile App Marketing Outreach,5,1264,4253,1,5,3,10,4,4,2,4,"Services,Events,Beauty,Real Estate",2
+479,Targeted Loyalty Programs Campaign,4,1819,4562,5,3,9,17,4,3,5,3,Digital Products,4
+480,NextGen Influencer Marketing Strategy,4,1474,6597,3,2,8,26,4,5,2,5,"Fitness,All,B2B,Real Estate",4
+481,Targeted Trade Shows & Events Engagement,4,169,3533,2,4,7,26,1,3,1,4,"E-commerce,Manufacturing",3
+482,NextGen SMS Marketing Engagement,1,445,6504,4,2,1,26,4,4,3,2,"Manufacturing,Digital Products",5
+483,Dynamic Content Marketing Campaign,5,802,3061,3,2,4,25,3,4,4,4,"Fashion,Digital Products",2
+484,NextGen Augmented Reality Marketing Campaign,4,803,8643,4,3,4,24,5,5,4,3,"Restaurants,SaaS",1
+485,Hyper Search Engine Optimization (SEO) Campaign,5,1724,7056,4,1,8,30,3,5,2,4,"Travel,Entertainment,Real Estate,Services",2
+486,Smart SMS Marketing Campaign,4,823,2149,2,3,2,22,4,2,1,4,Food,5
+487,Ultimate Content Marketing Plan,1,1293,5921,5,1,3,25,1,3,2,4,"Local Business,Restaurants,Events",2
+488,Dynamic Video Marketing Outreach,3,1636,2069,1,3,8,18,2,4,4,3,"Digital Products,E-commerce",1
+489,Hyper Webinars Outreach,2,1570,3434,5,2,1,29,3,1,3,2,Manufacturing,5
+490,Ultimate PR Campaigns Engagement,5,1697,2628,1,5,6,10,3,5,4,1,"Finance,Digital Products,Food",5
+491,Advanced Retargeting Campaigns Engagement,5,517,3320,5,5,4,24,1,3,3,2,"Education,Fashion,Retail",3
+492,Smart Social Media Marketing Campaign,5,103,6164,1,4,4,16,3,4,5,1,Education,3
+493,AI-Driven Interactive Content Campaign,2,519,8509,3,1,3,16,4,4,1,2,"Lifestyle,Services,Gaming,SaaS",5
+494,Smart LinkedIn Marketing Growth,3,581,2852,1,4,7,28,2,3,2,2,"Beauty,Food,Products,Travel",1
+495,Hyper Social Media Ads Growth,1,1297,4407,2,4,10,27,2,3,1,5,Finance,2
+496,AI-Driven Conversational Marketing Campaign,5,1860,7064,4,5,2,27,1,1,1,3,"E-commerce,Entertainment,B2B",2
+497,Ultimate SMS Marketing Campaign,4,553,7930,2,5,1,11,4,4,3,5,"News,B2B",3
+498,Hyper Community Marketing Outreach,4,1405,9084,2,3,6,24,3,2,2,4,"Local Business,Events,News",1
+499,Advanced Guerrilla Marketing Engagement,1,1940,3439,2,1,1,23,2,3,4,3,"B2B,Lifestyle,Finance,SaaS",2
+500,Advanced Podcast Advertising Campaign,4,1874,9633,2,3,4,29,3,2,4,2,"Technology,Education,Products,News",4
+501,AI-Driven Influencer Marketing Strategy,5,1994,2284,4,2,5,20,2,4,2,1,"Restaurants,Food,Technology",1
+502,Smart Content Marketing Growth,1,309,7966,2,5,6,27,3,5,1,2,"Education,E-commerce",4
+503,Targeted Content Marketing Outreach,5,258,2458,4,5,10,20,2,4,1,5,News,4
+504,AI-Driven Search Engine Optimization (SEO) Campaign,3,1230,6826,2,5,8,23,2,3,2,1,"Local Business,Manufacturing",5
+505,Smart Augmented Reality Marketing Campaign,1,302,2439,5,3,2,27,2,5,3,5,Entertainment,2
+506,AI-Driven Guerrilla Marketing Plan,3,1570,7830,3,2,9,21,4,5,3,2,Education,5
+507,Hyper Influencer Marketing Outreach,1,1385,7034,3,3,6,12,1,4,4,1,"Fitness,Beauty",1
+508,Smart Loyalty Programs Plan,4,855,6324,1,2,4,17,5,5,5,4,"Fashion,Retail",1
+509,NextGen SMS Marketing Strategy,2,512,7067,5,2,2,16,3,5,3,1,"Real Estate,All",1
+510,NextGen Micro-Influencer Marketing Strategy,1,1115,3277,3,1,7,14,3,3,3,2,"All,Fitness,Products",2
+511,AI-Driven Pay-Per-Click Advertising Plan,4,1878,8835,1,3,2,10,2,3,2,2,"Local Business,Events",1
+512,Smart Augmented Reality Marketing Campaign,5,908,2511,3,1,10,24,2,2,2,5,"Beauty,Manufacturing,B2B",2
+513,AI-Driven LinkedIn Marketing Campaign,3,177,3457,1,1,9,18,1,1,1,3,"Real Estate,All",5
+514,Dynamic Mobile App Marketing Plan,3,525,5183,2,4,7,25,3,1,1,3,"Professional Services,Fashion,Products,Beauty",3
+515,Advanced SMS Marketing Plan,3,316,8298,2,3,7,22,3,5,3,2,"Products,Lifestyle,Events",1
+516,Ultimate Search Engine Optimization (SEO) Plan,3,808,4055,5,1,8,23,3,4,5,5,"Professional Services,Food",4
+517,Hyper Video Marketing Plan,2,1410,9591,5,2,6,18,3,5,1,4,"B2B,All,Entertainment,Food",5
+518,Hyper Pay-Per-Click Advertising Plan,4,681,6931,1,5,10,30,3,4,2,1,Travel,4
+519,Targeted Content Marketing Growth,3,1468,3506,1,3,6,17,3,4,2,5,"Finance,Fitness,Retail,All",2
+520,Ultimate Video Marketing Plan,5,790,3234,2,3,10,23,5,5,3,5,"Products,Restaurants",5
+521,Ultimate Customer Referral Programs Outreach,3,658,5601,4,5,10,26,5,5,3,3,Fitness,2
+522,NextGen Social Media Ads Outreach,3,678,5256,1,1,4,27,5,5,4,1,"Fitness,Technology,Food,Digital Products",2
+523,AI-Driven Outbound Sales Outreach,2,707,5034,5,4,1,29,3,2,4,2,"Fashion,Restaurants,Technology,All",3
+524,Ultimate Community Marketing Outreach,1,806,9102,1,3,3,26,2,3,3,2,"Local Business,Professional Services,All,Technology",4
+525,AI-Driven Influencer Marketing Plan,4,1312,5038,4,4,2,21,1,3,2,4,"Manufacturing,Finance,Food,Gaming",4
+526,Targeted Native Advertising Growth,4,1274,9020,2,5,8,16,1,1,4,5,"Technology,Fashion,Events,Beauty",2
+527,Smart Native Advertising Strategy,5,1017,4129,4,1,1,29,3,3,5,2,"Technology,Local Business,Digital Products,Fitness",4
+528,Targeted Trade Shows & Events Growth,2,1555,8887,2,1,2,19,5,4,1,3,"Fashion,Entertainment,Professional Services,Events",5
+529,AI-Driven Local SEO Campaign,3,1250,2640,1,3,3,11,5,4,5,5,"Technology,Services,Events,Fashion",3
+530,Smart Local SEO Growth,5,1021,7239,5,5,6,20,4,2,2,3,"Lifestyle,News,Food",4
+531,Dynamic Affiliate Marketing Engagement,4,629,9207,2,1,9,12,1,1,1,3,Local Business,2
+532,AI-Driven Customer Referral Programs Strategy,3,213,5107,3,1,8,24,4,3,1,3,"Food,Manufacturing,Fitness",2
+533,Ultimate Trade Shows & Events Strategy,2,822,4840,2,1,10,18,5,2,3,2,"Events,Professional Services,Real Estate,Local Business",5
+534,AI-Driven Retargeting Campaigns Plan,2,615,6105,1,3,7,26,1,3,1,5,"Products,Real Estate",1
+535,Hyper PR Campaigns Growth,4,483,8646,1,4,4,11,4,5,4,3,"Food,Finance,Retail,Lifestyle",3
+536,AI-Driven Outbound Sales Outreach,5,1658,5525,5,2,7,19,4,3,2,5,"Lifestyle,E-commerce,Entertainment",5
+537,AI-Driven LinkedIn Marketing Growth,3,692,8282,2,1,10,12,2,4,5,4,"Finance,Education,Fitness,Food",5
+538,Advanced Augmented Reality Marketing Growth,2,141,2016,4,4,1,26,1,4,1,3,"Entertainment,Technology",4
+539,AI-Driven Webinars Strategy,2,888,9413,5,3,7,11,4,2,4,4,News,1
+540,Advanced Interactive Content Engagement,3,517,9719,5,3,9,19,2,4,2,1,"Products,Technology,Events,SaaS",5
+541,NextGen Mobile App Marketing Growth,2,477,5282,2,4,10,22,3,4,5,4,Real Estate,4
+542,Advanced Trade Shows & Events Plan,3,1319,3890,1,2,2,14,4,4,4,2,"Events,Entertainment,Education",1
+543,Advanced Podcast Advertising Growth,4,280,2958,1,3,10,29,3,2,3,2,Gaming,1
+544,Smart PR Campaigns Strategy,5,994,2628,1,2,2,27,4,2,5,2,"Fitness,SaaS,Fashion",1
+545,Advanced LinkedIn Marketing Campaign,5,1930,4393,2,3,9,13,4,1,3,1,"Manufacturing,Products,Lifestyle",5
+546,Dynamic Affiliate Marketing Growth,5,846,8808,1,5,10,30,2,2,4,4,"Technology,E-commerce,Digital Products",2
+547,Hyper Augmented Reality Marketing Growth,2,471,9816,5,4,2,30,2,2,5,4,"Local Business,Manufacturing,SaaS,Retail",4
+548,NextGen User-Generated Content Outreach,5,720,9848,5,1,5,13,2,5,2,2,"Fitness,Events,SaaS,All",5
+549,Dynamic Augmented Reality Marketing Plan,2,1622,3173,4,3,4,15,5,4,1,1,"All,Lifestyle,Travel,Professional Services",4
+550,Advanced Pay-Per-Click Advertising Engagement,3,1738,6167,2,4,10,13,5,5,5,5,"Services,Finance,Events,Professional Services",5
+551,Targeted Customer Referral Programs Outreach,2,1575,6358,2,4,6,20,1,1,1,1,Real Estate,3
+552,Advanced Trade Shows & Events Campaign,1,1819,7367,4,5,10,26,2,5,3,2,"Technology,Digital Products",2
+553,Hyper Local SEO Campaign,5,905,6005,5,4,4,25,3,2,1,2,"All,Local Business,Restaurants,Professional Services",4
+554,AI-Driven Augmented Reality Marketing Outreach,2,1440,6192,5,5,7,28,4,4,1,2,"Fashion,Technology,Local Business",4
+555,Advanced Trade Shows & Events Campaign,5,797,8146,4,3,3,25,2,3,2,4,"Fitness,Retail",2
+556,NextGen Augmented Reality Marketing Campaign,1,409,2355,1,3,7,12,1,2,1,1,"Travel,Local Business,Professional Services,Entertainment",1
+557,Targeted Augmented Reality Marketing Growth,1,1033,4291,1,3,3,15,5,3,3,4,"Lifestyle,E-commerce,Education,Finance",4
+558,Advanced Interactive Content Strategy,1,196,9306,5,3,10,28,3,3,3,1,"All,Lifestyle,Entertainment",4
+559,Dynamic Trade Shows & Events Growth,4,1553,6987,5,2,3,26,3,2,3,1,"Restaurants,Education,Manufacturing",5
+560,Hyper Email Marketing Outreach,1,1386,8885,1,1,2,16,5,2,3,5,Lifestyle,4
+561,Smart Email Marketing Outreach,3,620,2086,4,2,10,18,4,2,5,5,"Events,Local Business",3
+562,Smart Email Marketing Engagement,5,861,3847,1,5,2,30,5,1,3,2,"Food,Lifestyle",1
+563,Ultimate Webinars Engagement,3,321,2211,1,4,5,17,2,2,4,2,Retail,2
+564,Ultimate Trade Shows & Events Campaign,5,1427,6079,2,5,10,30,2,3,3,4,"Real Estate,Fitness",4
+565,Ultimate Local SEO Campaign,3,589,8301,3,4,2,11,3,1,5,1,"SaaS,Finance,Education",4
+566,AI-Driven Email Marketing Outreach,4,528,9642,5,2,4,23,4,3,1,2,Digital Products,1
+567,AI-Driven Native Advertising Campaign,2,861,5295,2,1,2,15,5,1,3,3,Gaming,5
+568,Smart Affiliate Marketing Strategy,3,779,6825,2,5,7,22,2,3,4,2,"SaaS,Real Estate,Food",1
+569,NextGen Native Advertising Campaign,3,447,7689,1,4,1,25,5,5,2,1,"Travel,Professional Services,E-commerce",1
+570,NextGen Local SEO Plan,3,209,8317,5,2,8,17,4,1,2,4,"Education,Food",1
+571,Ultimate Content Marketing Campaign,5,1801,5652,3,3,10,10,5,4,2,4,Travel,4
+572,Smart Local SEO Growth,1,325,9816,1,5,8,18,5,2,5,5,"Digital Products,Restaurants",4
+573,NextGen User-Generated Content Engagement,2,1324,7126,5,4,1,20,1,1,2,5,Travel,3
+574,Dynamic Conversational Marketing Growth,2,359,8592,3,1,7,24,2,1,3,1,"Fashion,B2B,News,Professional Services",5
+575,Dynamic Podcast Advertising Plan,1,1484,4689,1,4,4,24,3,4,4,2,"Lifestyle,Beauty,B2B",2
+576,Ultimate Podcast Advertising Plan,3,579,5568,4,4,10,27,4,4,1,1,"Travel,Local Business",1
+577,Smart Search Engine Optimization (SEO) Campaign,2,1444,7987,1,2,9,30,5,3,2,2,"Real Estate,Education,Professional Services,Restaurants",4
+578,Dynamic Webinars Strategy,5,187,7701,3,4,7,20,3,3,3,5,"Lifestyle,Technology",2
+579,Targeted Conversational Marketing Engagement,2,933,2465,3,5,9,22,4,5,2,2,Professional Services,1
+580,Dynamic PR Campaigns Plan,2,287,6780,2,2,7,17,3,1,1,5,"Gaming,Entertainment,Retail",4
+581,AI-Driven Guerrilla Marketing Engagement,2,958,9843,4,3,8,16,3,4,2,1,"Manufacturing,Finance",5
+582,Targeted LinkedIn Marketing Growth,5,1617,5220,5,1,9,23,1,4,4,5,Retail,3
+583,Hyper Social Media Ads Campaign,1,525,9435,4,2,2,19,3,1,2,3,"Gaming,Events,Restaurants",1
+584,Dynamic Micro-Influencer Marketing Plan,2,573,8796,2,3,3,11,5,4,2,1,Real Estate,1
+585,Advanced Content Marketing Campaign,2,1687,3345,1,1,9,26,3,1,3,5,"Retail,Real Estate,Restaurants",5
+586,Hyper Webinars Outreach,1,1841,5455,5,3,6,27,1,3,3,3,"Finance,Digital Products,Food,Retail",4
+587,Advanced Conversational Marketing Growth,1,174,3990,4,3,3,15,1,3,5,1,"Digital Products,News,E-commerce",4
+588,Smart Community Marketing Engagement,3,855,2434,2,3,2,16,5,2,5,4,Digital Products,2
+589,Hyper Loyalty Programs Engagement,5,862,9244,3,4,2,20,2,4,3,5,"Technology,Manufacturing",3
+590,Hyper Search Engine Optimization (SEO) Growth,3,640,6275,4,1,4,16,1,4,1,2,Education,1
+591,Targeted Local SEO Campaign,5,383,4416,5,2,1,14,4,2,5,2,"Events,Fashion,E-commerce,Real Estate",2
+592,Smart Augmented Reality Marketing Plan,4,760,4850,5,1,7,27,4,5,5,4,"B2B,Retail,All,Manufacturing",1
+593,Advanced LinkedIn Marketing Outreach,2,706,3451,4,1,8,14,5,3,2,3,"Digital Products,Travel",3
+594,Ultimate Social Media Marketing Strategy,5,1286,3181,4,3,4,16,3,1,1,4,Fitness,2
+595,Dynamic Native Advertising Engagement,4,1269,8069,1,5,5,24,4,4,2,2,"Local Business,Real Estate",3
+596,Advanced Voice Search Optimization Plan,3,814,7473,2,5,2,28,4,5,5,2,"All,Travel,Professional Services,Services",2
+597,Ultimate PR Campaigns Growth,3,1253,3320,2,5,4,13,5,5,3,3,"Retail,Education",2
+598,Hyper Outbound Sales Engagement,3,1537,3024,2,5,7,15,1,3,1,1,"Technology,Finance",2
+599,NextGen Podcast Advertising Campaign,4,1336,6603,4,4,2,27,4,4,2,1,Restaurants,2
+600,Dynamic PR Campaigns Plan,3,1803,5965,5,3,2,26,4,3,3,3,"Lifestyle,B2B",1
+601,Advanced Outbound Sales Growth,5,1833,9217,4,4,6,28,5,4,4,1,"Products,Education,Digital Products,E-commerce",2
+602,Targeted Content Marketing Strategy,1,1499,2923,2,4,2,20,2,5,4,2,"Travel,Real Estate,SaaS,Professional Services",1
+603,Hyper Retargeting Campaigns Campaign,5,165,8770,1,1,8,25,5,2,5,1,Finance,3
+604,Hyper Interactive Content Engagement,1,786,9525,4,2,5,15,1,5,1,5,Digital Products,5
+605,Targeted SMS Marketing Growth,3,1251,7088,1,1,3,27,2,4,4,1,Entertainment,3
+606,Advanced Podcast Advertising Growth,4,1386,7384,1,5,9,13,2,1,4,5,"Fitness,Food,Local Business",3
+607,Dynamic Micro-Influencer Marketing Campaign,5,1692,9024,2,4,6,12,2,1,1,4,"Restaurants,B2B,Digital Products",3
+608,Targeted Outbound Sales Outreach,3,243,4249,4,1,7,25,4,3,3,4,"Services,Education,Digital Products",1
+609,Ultimate Video Marketing Campaign,1,1296,8018,3,3,9,19,4,2,4,1,"Restaurants,SaaS",3
+610,Targeted Social Media Marketing Strategy,2,1310,7471,3,2,6,19,1,2,4,4,"Gaming,Travel,Food",5
+611,Smart Loyalty Programs Outreach,3,381,7082,1,1,7,13,4,3,2,3,"E-commerce,Retail",1
+612,Targeted Community Marketing Strategy,3,1777,8700,2,3,10,24,4,3,1,3,Fitness,5
+613,AI-Driven Influencer Marketing Growth,2,283,3113,3,2,9,29,1,3,1,3,"Beauty,Travel,SaaS",4
+614,Targeted SMS Marketing Growth,2,1823,6247,4,2,3,14,1,5,1,2,"Real Estate,Beauty,Retail,Professional Services",3
+615,NextGen Video Marketing Outreach,3,1759,4871,5,5,3,10,5,2,3,3,"B2B,Retail,Products,Professional Services",2
+616,Advanced SMS Marketing Growth,3,1255,4100,1,4,7,27,2,2,4,2,"E-commerce,Education",3
+617,Advanced Podcast Advertising Plan,1,290,3025,4,3,2,17,4,5,3,4,"Entertainment,Services,Local Business,Digital Products",5
+618,Smart Influencer Marketing Plan,2,1401,9261,4,2,10,22,1,4,4,3,"Fitness,Real Estate",4
+619,Hyper Guerrilla Marketing Engagement,1,586,2719,1,2,5,30,1,3,3,3,"Entertainment,B2B,Beauty",1
+620,Hyper Webinars Outreach,5,582,3762,2,1,8,22,4,5,1,1,"E-commerce,Fitness,SaaS,Manufacturing",1
+621,Advanced Affiliate Marketing Engagement,2,1576,8506,4,1,2,21,4,4,1,4,"Retail,News",5
+622,Advanced Loyalty Programs Growth,3,1823,4895,4,3,3,26,3,3,1,4,Technology,5
+623,Smart Voice Search Optimization Outreach,4,927,3555,4,2,6,17,1,5,3,2,Retail,5
+624,Ultimate Webinars Campaign,2,380,7177,2,5,8,15,2,1,1,4,"News,All,Restaurants,SaaS",1
+625,NextGen Mobile App Marketing Plan,3,374,3085,5,2,7,21,5,5,3,2,Entertainment,5
+626,AI-Driven Outbound Sales Engagement,2,1126,5658,3,5,2,18,3,3,4,2,"Fashion,Beauty,Lifestyle,E-commerce",2
+627,Dynamic Trade Shows & Events Plan,2,946,8233,4,3,4,23,4,3,3,5,"Local Business,Retail,Travel",3
+628,Advanced Search Engine Optimization (SEO) Outreach,5,539,8079,3,5,10,26,4,5,3,5,"Finance,Manufacturing",4
+629,Targeted Augmented Reality Marketing Outreach,3,1357,3041,3,2,9,25,2,1,5,4,"Restaurants,Real Estate,All",1
+630,Advanced Email Marketing Growth,3,653,3560,4,2,8,15,2,2,1,5,Services,3
+631,Advanced Pay-Per-Click Advertising Strategy,4,519,4797,1,2,1,23,2,3,4,5,"Gaming,Beauty",5
+632,Targeted Retargeting Campaigns Outreach,1,593,9935,5,3,2,21,3,1,4,5,"Services,Entertainment,Retail",1
+633,NextGen Guerrilla Marketing Engagement,4,1076,4209,2,3,7,22,4,1,4,5,"Real Estate,Lifestyle,Services",4
+634,Advanced Social Media Ads Strategy,3,342,8091,5,4,3,24,3,1,3,4,"All,Events,Manufacturing",1
+635,Advanced Micro-Influencer Marketing Campaign,3,1790,6455,2,4,10,17,4,1,3,4,"Digital Products,Restaurants",3
+636,Smart Community Marketing Outreach,3,1134,4586,1,5,9,13,2,2,3,2,"Fashion,Real Estate,Manufacturing",5
+637,NextGen Guerrilla Marketing Growth,1,766,3944,5,2,9,13,5,5,3,3,"Education,News,Beauty",4
+638,Dynamic Email Marketing Campaign,4,282,6004,4,5,1,26,3,5,5,1,"Products,SaaS",5
+639,Hyper Outbound Sales Growth,3,1614,7858,2,1,9,19,4,1,2,2,"Restaurants,SaaS,Beauty,Lifestyle",3
+640,Advanced Guerrilla Marketing Plan,1,1385,6699,3,1,2,20,4,3,5,4,"SaaS,Manufacturing",3
+641,Hyper PR Campaigns Growth,4,1787,6291,4,4,5,23,2,2,5,1,"Entertainment,Manufacturing,Education",5
+642,Hyper Guerrilla Marketing Strategy,2,371,4087,5,5,7,12,2,3,4,3,"Food,Real Estate,Education,B2B",1
+643,Dynamic Trade Shows & Events Strategy,3,104,3556,2,3,4,18,1,4,4,4,"Professional Services,Fashion,News,E-commerce",5
+644,NextGen Loyalty Programs Strategy,4,951,3106,4,2,2,15,1,4,5,2,"Restaurants,Services",1
+645,Advanced Loyalty Programs Plan,4,789,8367,2,4,5,20,2,2,3,5,"Travel,Entertainment,Services,Products",2
+646,Dynamic Influencer Marketing Engagement,1,524,8383,3,5,7,21,4,1,1,2,"Real Estate,Manufacturing",2
+647,Targeted Augmented Reality Marketing Outreach,1,1128,9639,4,2,10,22,3,5,1,2,"Real Estate,Travel,Education,Restaurants",1
+648,Smart Micro-Influencer Marketing Growth,4,537,3839,2,2,1,11,3,5,5,2,"Restaurants,Gaming,Fashion,All",2
+649,Dynamic Social Media Marketing Campaign,2,406,7041,3,4,5,13,3,5,5,4,"All,Technology,Events,Professional Services",2
+650,AI-Driven Email Marketing Growth,5,241,5100,5,4,1,12,2,4,5,4,"SaaS,Manufacturing,Events,Beauty",5
+651,Targeted Guerrilla Marketing Strategy,4,1826,9137,1,2,7,24,3,1,4,1,"B2B,Products,Local Business,News",3
+652,Ultimate Content Marketing Strategy,4,466,5799,5,2,2,12,4,3,1,1,"Education,B2B",4
+653,Hyper LinkedIn Marketing Campaign,1,831,7571,1,4,4,28,1,3,4,3,"SaaS,Digital Products,Food,Restaurants",4
+654,AI-Driven LinkedIn Marketing Plan,4,492,3230,5,2,1,25,4,5,2,3,"B2B,Education",5
+655,NextGen Trade Shows & Events Outreach,5,185,3432,4,3,10,10,2,3,4,5,"Fitness,Events,E-commerce,Professional Services",5
+656,Ultimate LinkedIn Marketing Plan,2,1346,3997,4,2,2,24,3,2,4,1,"Retail,Travel",5
+657,AI-Driven Video Marketing Strategy,4,1517,4187,5,3,7,14,5,5,2,2,"Digital Products,Local Business,Products",2
+658,Dynamic Customer Referral Programs Campaign,2,1329,7416,3,1,5,20,1,5,1,4,"Food,Travel",3
+659,Targeted Voice Search Optimization Strategy,5,913,5951,4,2,5,16,4,5,5,2,"Beauty,Restaurants,E-commerce",4
+660,Dynamic Native Advertising Growth,4,1744,3956,2,5,10,27,4,2,1,2,E-commerce,3
+661,Targeted Micro-Influencer Marketing Engagement,5,1044,9930,4,4,2,28,3,3,5,3,"Services,Technology,Products",1
+662,Dynamic Local SEO Plan,1,1560,2636,5,3,10,15,5,1,1,2,"Digital Products,Real Estate",2
+663,Ultimate LinkedIn Marketing Plan,2,271,4843,1,5,2,26,1,4,3,4,"Events,Food,E-commerce",2
+664,Dynamic Outbound Sales Growth,2,517,6221,2,1,7,14,5,2,5,2,"Professional Services,Gaming",2
+665,Hyper Native Advertising Growth,3,103,2800,1,4,1,16,4,3,1,3,"Food,SaaS,Technology,Digital Products",1
+666,Targeted Customer Referral Programs Strategy,4,499,2769,2,1,1,11,5,5,1,2,Products,2
+667,AI-Driven SMS Marketing Plan,1,473,5814,2,3,3,25,5,2,4,3,"Local Business,Education",5
+668,NextGen User-Generated Content Outreach,2,1566,2834,3,4,4,16,2,3,3,1,"Fashion,Technology,Professional Services",2
+669,Dynamic Community Marketing Strategy,4,267,4548,5,2,1,18,2,4,2,2,Technology,4
+670,Targeted Loyalty Programs Outreach,2,666,5950,3,4,4,26,1,4,2,1,B2B,3
+671,Smart Outbound Sales Growth,1,139,8238,2,4,3,18,2,1,1,2,Fitness,1
+672,Ultimate Outbound Sales Campaign,1,646,2106,5,4,7,20,3,4,3,3,Real Estate,1
+673,Hyper Affiliate Marketing Growth,5,912,4605,5,5,8,24,2,3,2,3,Real Estate,4
+674,Smart Influencer Marketing Engagement,5,531,5642,5,1,5,27,4,5,2,4,"Fashion,Restaurants,Technology",1
+675,Advanced Trade Shows & Events Campaign,5,1380,9602,3,4,1,22,2,5,5,3,Services,2
+676,NextGen Pay-Per-Click Advertising Campaign,4,1216,3578,2,3,1,26,2,4,4,3,Real Estate,3
+677,Targeted Mobile App Marketing Outreach,4,1980,8241,4,1,1,24,3,1,1,3,E-commerce,5
+678,Ultimate Voice Search Optimization Campaign,1,1113,8467,4,3,7,13,5,4,5,3,"Lifestyle,Real Estate,Local Business",2
+679,Dynamic Trade Shows & Events Growth,2,636,7610,2,3,8,18,4,1,1,1,Manufacturing,3
+680,Ultimate Trade Shows & Events Campaign,2,1030,4917,2,2,10,26,5,4,3,3,"Fashion,Food,Retail,SaaS",4
+681,Advanced Retargeting Campaigns Growth,2,868,3643,3,2,1,17,5,1,2,2,Digital Products,3
+682,Ultimate Mobile App Marketing Engagement,1,1417,7653,5,1,5,21,1,1,3,3,"SaaS,Finance",2
+683,Smart Guerrilla Marketing Campaign,1,277,4510,3,3,4,24,3,2,4,1,"Products,Gaming",3
+684,Targeted Loyalty Programs Strategy,4,1327,7380,1,2,1,24,3,4,2,3,"SaaS,Gaming,Digital Products,News",3
+685,Hyper Voice Search Optimization Growth,3,1996,3356,4,5,1,16,3,1,5,1,"Fitness,Restaurants,Gaming,Finance",2
+686,Dynamic Guerrilla Marketing Outreach,3,727,4085,5,1,9,18,4,4,4,3,Beauty,2
+687,Advanced LinkedIn Marketing Plan,3,1670,3061,3,4,2,14,5,4,3,1,"Restaurants,Finance,News,Services",5
+688,AI-Driven Voice Search Optimization Growth,1,174,6027,1,4,1,17,2,5,1,5,"Professional Services,SaaS,News,Local Business",2
+689,Smart PR Campaigns Engagement,3,1050,2999,2,3,2,25,1,2,5,4,"All,Manufacturing",5
+690,Hyper User-Generated Content Engagement,4,612,4574,4,5,2,22,4,3,3,3,"E-commerce,Lifestyle",5
+691,NextGen Customer Referral Programs Growth,2,1239,8314,2,1,9,10,1,5,1,5,"Services,Events,Food,B2B",2
+692,Dynamic PR Campaigns Plan,4,588,6103,5,2,6,21,2,1,3,4,"Entertainment,Services",3
+693,Hyper Loyalty Programs Engagement,4,537,9210,1,1,2,17,3,5,1,5,"Lifestyle,Technology,Retail",5
+694,AI-Driven Voice Search Optimization Outreach,1,321,6606,1,3,8,29,1,2,4,3,Education,2
+695,Smart Email Marketing Campaign,1,1819,7121,4,3,4,15,2,2,4,1,Real Estate,1
+696,Dynamic Guerrilla Marketing Plan,1,1162,4220,1,4,8,12,4,1,4,4,"Professional Services,Services,Fashion",2
+697,NextGen Customer Referral Programs Strategy,2,1833,6198,2,2,6,25,1,2,5,1,"Local Business,Real Estate,Technology",4
+698,Hyper Loyalty Programs Outreach,2,105,7788,3,2,6,18,2,2,1,4,"E-commerce,Events",1
+699,AI-Driven Local SEO Outreach,1,1877,7980,3,2,8,17,4,5,5,5,All,3
+700,Hyper Podcast Advertising Outreach,5,932,6123,1,2,10,19,3,4,3,4,"Manufacturing,All,Fitness,Entertainment",4
+701,Ultimate Pay-Per-Click Advertising Engagement,4,1808,6916,4,2,10,25,4,4,4,5,"E-commerce,Lifestyle",4
+702,Smart Social Media Marketing Growth,5,1108,2153,1,5,1,24,5,2,4,4,"Technology,Digital Products,Gaming",5
+703,NextGen Augmented Reality Marketing Plan,3,1261,7952,2,1,4,22,3,2,3,2,"Technology,Events",2
+704,Targeted Customer Referral Programs Strategy,2,367,9080,4,4,6,13,4,3,3,4,Local Business,5
+705,Dynamic SMS Marketing Growth,5,700,5755,1,2,10,23,2,2,1,3,"Retail,Products,Manufacturing",4
+706,Smart Conversational Marketing Plan,2,101,8415,4,4,9,22,1,1,3,2,"News,All,Gaming",5
+707,NextGen Outbound Sales Growth,5,1987,3461,1,1,7,13,3,2,4,5,"B2B,Gaming,Local Business",5
+708,Smart Influencer Marketing Growth,2,125,4794,3,5,2,27,2,4,3,4,"Fitness,Restaurants",5
+709,NextGen Video Marketing Engagement,2,1198,4387,1,4,7,28,4,2,5,2,"Beauty,B2B,Gaming",4
+710,Advanced User-Generated Content Engagement,4,1039,5293,4,3,6,18,4,1,3,4,"Fitness,Food,B2B,Technology",4
+711,Ultimate LinkedIn Marketing Growth,4,592,4999,3,1,1,14,4,5,1,5,Restaurants,2
+712,Dynamic Voice Search Optimization Growth,5,1790,5824,4,1,7,13,3,1,4,3,"Manufacturing,Fitness",3
+713,NextGen Mobile App Marketing Strategy,1,1509,2282,4,3,10,20,3,4,5,1,"Local Business,Real Estate",1
+714,Targeted Search Engine Optimization (SEO) Plan,3,1558,7757,3,1,5,20,5,2,3,3,"Technology,News",2
+715,Advanced Local SEO Outreach,5,652,5460,3,1,6,24,3,5,3,4,"Services,Beauty,Products",2
+716,NextGen User-Generated Content Outreach,2,1862,7567,2,2,8,17,4,2,4,2,"Education,News",4
+717,NextGen Affiliate Marketing Plan,4,989,3885,2,1,3,25,2,5,4,5,Professional Services,1
+718,Hyper Video Marketing Strategy,3,1850,2468,4,5,3,21,5,1,1,2,Local Business,2
+719,Advanced SMS Marketing Outreach,2,730,7764,5,3,1,20,3,4,5,2,"Fashion,Real Estate",5
+720,Dynamic Video Marketing Outreach,5,1508,8326,5,1,3,25,2,5,2,1,"Restaurants,B2B,Education",2
+721,Targeted Video Marketing Strategy,3,1750,3192,4,5,6,13,4,2,5,5,"News,Fitness,Entertainment,Professional Services",4
+722,Advanced Mobile App Marketing Engagement,5,1654,9329,1,2,3,24,3,3,3,5,"Professional Services,Retail",4
+723,Hyper Micro-Influencer Marketing Strategy,1,608,9461,1,1,4,20,5,4,1,3,"Restaurants,Services",4
+724,Ultimate Trade Shows & Events Engagement,5,1468,5232,2,1,8,21,4,2,3,2,Retail,2
+725,Dynamic LinkedIn Marketing Strategy,2,1089,4962,2,3,10,15,1,5,5,3,SaaS,3
+726,Targeted Social Media Marketing Growth,1,276,9695,4,2,8,26,3,3,4,1,E-commerce,3
+727,NextGen Pay-Per-Click Advertising Campaign,3,1637,6316,2,3,4,28,5,5,2,3,E-commerce,2
+728,NextGen Email Marketing Campaign,4,1561,5855,2,5,7,16,1,3,3,3,"Products,Fashion",1
+729,Ultimate Mobile App Marketing Engagement,5,398,6835,5,1,8,17,1,1,3,4,"All,B2B,Travel,News",1
+730,NextGen Guerrilla Marketing Plan,5,1382,2089,2,2,7,27,2,1,5,2,"Lifestyle,Gaming,Beauty",3
+731,NextGen Customer Referral Programs Strategy,1,1359,9930,4,2,8,12,2,1,4,4,"Restaurants,Entertainment,Services,Retail",5
+732,Hyper Interactive Content Strategy,5,1650,5301,5,5,9,27,1,5,2,2,"Food,Products,Fashion,Lifestyle",1
+733,Smart Content Marketing Plan,2,853,8968,3,3,7,27,2,1,2,2,"Beauty,Products,Digital Products",5
+734,AI-Driven Content Marketing Campaign,1,1242,9897,1,2,10,11,3,3,5,1,"E-commerce,Beauty",2
+735,NextGen Micro-Influencer Marketing Plan,4,591,5870,5,5,5,24,1,3,4,4,Real Estate,3
+736,Advanced Retargeting Campaigns Outreach,3,1896,9329,1,3,4,15,3,1,5,1,"B2B,Entertainment",5
+737,NextGen Micro-Influencer Marketing Growth,5,1635,2753,2,2,7,27,4,3,3,4,"Events,SaaS,News,All",2
+738,Targeted PR Campaigns Campaign,2,997,8217,4,1,1,10,3,3,3,5,Local Business,2
+739,NextGen Loyalty Programs Outreach,3,1658,5842,1,1,4,27,4,3,3,1,"Travel,Digital Products",5
+740,Smart SMS Marketing Growth,1,847,8453,1,1,7,30,3,3,4,3,E-commerce,5
+741,Targeted PR Campaigns Strategy,1,658,9313,2,5,2,18,1,4,5,5,Fitness,1
+742,Targeted PR Campaigns Campaign,1,1228,5959,1,4,3,26,1,2,4,3,"Professional Services,Education,SaaS,Retail",1
+743,Hyper Social Media Ads Growth,3,258,4383,5,3,4,12,2,2,1,2,"Entertainment,Restaurants",5
+744,Ultimate Social Media Marketing Strategy,5,588,9722,3,3,5,12,1,4,1,1,Fashion,5
+745,Smart Customer Referral Programs Campaign,1,1145,2614,5,1,2,16,2,3,4,1,"Technology,Manufacturing",2
+746,Smart Video Marketing Outreach,2,572,4877,4,5,3,14,3,1,2,3,"Lifestyle,Services,Beauty",5
+747,Targeted Trade Shows & Events Engagement,1,800,2981,3,3,3,11,4,1,3,4,Professional Services,5
+748,Hyper Trade Shows & Events Strategy,4,1248,7445,3,4,5,22,4,3,2,3,"Beauty,Lifestyle",4
+749,AI-Driven Community Marketing Campaign,3,488,3019,1,5,2,12,1,1,5,1,"E-commerce,Real Estate",5
+750,Hyper Retargeting Campaigns Outreach,2,920,4312,4,5,5,16,1,5,3,2,"E-commerce,All",1
+751,NextGen Customer Referral Programs Engagement,2,1495,2093,5,2,7,20,2,3,4,2,"Products,Education,Fashion",5
+752,Targeted Interactive Content Growth,1,1413,2166,1,5,8,10,4,4,4,1,"Products,Entertainment,All,Travel",1
+753,Smart PR Campaigns Campaign,5,1068,6726,3,4,6,21,2,1,3,4,"B2B,Real Estate",4
+754,Advanced Podcast Advertising Growth,3,162,9385,3,3,8,12,5,3,1,2,"Events,Beauty,Real Estate,Finance",5
+755,NextGen Conversational Marketing Strategy,2,1579,2060,2,5,5,26,4,3,4,4,Professional Services,2
+756,AI-Driven PR Campaigns Engagement,1,680,7603,5,3,1,10,1,3,2,5,"Manufacturing,SaaS",1
+757,Smart PR Campaigns Campaign,1,821,7024,4,2,10,15,5,4,5,5,Food,4
+758,AI-Driven Influencer Marketing Plan,5,1215,2550,5,5,8,18,4,2,4,1,"Entertainment,Lifestyle,Gaming",3
+759,Advanced Email Marketing Outreach,1,989,4012,4,5,2,10,3,4,2,1,"Food,B2B,Local Business,Travel",5
+760,Targeted Social Media Ads Growth,3,955,5757,2,3,2,15,2,4,2,4,Entertainment,4
+761,Ultimate Podcast Advertising Strategy,5,420,2044,4,1,6,17,3,5,3,1,Events,2
+762,AI-Driven Video Marketing Campaign,5,1585,3431,1,3,2,24,5,1,4,5,"Local Business,Products,E-commerce,Travel",1
+763,NextGen PR Campaigns Plan,4,520,2708,4,4,1,20,4,3,4,1,"Local Business,Retail",1
+764,Advanced Native Advertising Strategy,5,1649,9201,1,4,2,29,3,2,1,3,"Professional Services,Digital Products,Services",1
+765,Smart Native Advertising Engagement,1,1624,8450,3,3,4,25,1,2,4,2,"Products,Finance,Travel",4
+766,Smart Social Media Ads Engagement,2,1050,6980,3,2,5,13,5,5,1,3,"Services,Local Business",1
+767,Ultimate Loyalty Programs Strategy,4,841,8574,5,5,2,19,4,5,5,2,"Retail,Digital Products,Fitness",5
+768,NextGen Email Marketing Strategy,3,1076,7823,1,4,5,26,2,3,3,2,Real Estate,4
+769,Dynamic Trade Shows & Events Strategy,1,906,8030,2,1,6,27,2,3,2,5,"Fitness,Education,Digital Products,News",4
+770,Hyper Outbound Sales Growth,5,1431,4994,4,4,3,28,4,3,2,5,"Manufacturing,Technology,Products",4
+771,Ultimate Content Marketing Plan,1,429,4839,1,3,9,25,1,5,1,5,"Services,Professional Services",3
+772,NextGen Conversational Marketing Campaign,1,1145,5810,3,4,5,24,1,3,4,5,"SaaS,Entertainment",5
+773,Ultimate Email Marketing Campaign,3,1986,8718,3,3,9,27,1,2,2,3,"B2B,Retail",1
+774,Advanced Interactive Content Strategy,4,501,2759,5,1,5,29,4,3,1,4,"B2B,Professional Services,Real Estate",5
+775,Advanced Customer Referral Programs Growth,5,1687,3323,5,3,5,12,4,5,2,2,"Education,Manufacturing",1
+776,Smart Pay-Per-Click Advertising Growth,1,992,2921,1,5,1,11,1,1,1,2,"Services,News,Events",1
+777,Hyper Retargeting Campaigns Growth,2,901,9341,3,3,6,20,2,1,4,3,"Real Estate,Education,Fitness",3
+778,Advanced Search Engine Optimization (SEO) Plan,4,593,7683,2,5,2,15,5,5,3,2,Real Estate,4
+779,Targeted Mobile App Marketing Outreach,2,331,7986,4,5,5,22,3,3,4,4,"Events,E-commerce,Food",4
+780,Dynamic Video Marketing Growth,5,437,9822,5,4,8,18,1,1,4,5,"News,Professional Services,Technology,Local Business",3
+781,Targeted LinkedIn Marketing Plan,1,244,3352,4,1,9,10,2,5,3,1,"Travel,Finance,Food,Digital Products",3
+782,Dynamic Webinars Engagement,3,1938,2139,1,2,5,15,2,4,3,5,"News,Beauty,Lifestyle,Real Estate",4
+783,AI-Driven Voice Search Optimization Plan,5,1699,7683,4,1,4,22,1,4,3,4,"Fashion,News",4
+784,AI-Driven Guerrilla Marketing Strategy,3,373,2614,5,5,6,15,3,1,5,3,"Products,Gaming",2
+785,Advanced Influencer Marketing Engagement,5,235,6088,5,2,5,12,3,1,5,1,"Retail,Events,Fitness",5
+786,NextGen Loyalty Programs Plan,2,934,3084,5,3,3,27,3,5,5,4,"Education,Fashion,Services,Lifestyle",1
+787,Hyper Outbound Sales Outreach,2,1627,7436,2,3,5,15,3,4,3,4,"Fashion,Education,Lifestyle",3
+788,AI-Driven Email Marketing Strategy,3,1009,6570,4,3,7,10,5,2,4,2,"Events,Education,Fitness,Retail",4
+789,NextGen Retargeting Campaigns Strategy,2,1171,7061,3,1,8,27,2,3,5,2,Retail,4
+790,Dynamic Voice Search Optimization Growth,5,1744,3915,2,1,5,21,5,5,2,1,"Digital Products,Finance,Entertainment,Gaming",2
+791,Ultimate Search Engine Optimization (SEO) Engagement,1,807,2858,2,1,8,11,5,4,3,5,Technology,2
+792,Targeted Community Marketing Strategy,1,620,2371,5,2,10,11,1,4,5,1,"Local Business,Finance,Professional Services",4
+793,NextGen Mobile App Marketing Growth,4,938,6236,1,3,10,15,3,5,4,1,"Real Estate,All",5
+794,Advanced Mobile App Marketing Outreach,3,1833,5988,5,5,9,24,1,2,2,3,Events,1
+795,Ultimate Augmented Reality Marketing Strategy,1,1089,3804,4,3,6,12,5,3,1,2,"Restaurants,Fashion,Lifestyle,News",2
+796,Advanced Local SEO Engagement,2,348,3714,5,2,2,29,5,5,4,1,"Products,Professional Services,Food,Entertainment",4
+797,Hyper Local SEO Strategy,5,1627,8316,1,3,6,12,4,1,1,1,Travel,2
+798,NextGen SMS Marketing Strategy,4,934,9847,5,5,4,16,1,5,4,1,Technology,1
+799,NextGen Social Media Marketing Plan,2,815,5432,3,2,4,30,3,1,3,5,"Products,Technology,Professional Services,Digital Products",2
+800,NextGen Augmented Reality Marketing Plan,2,469,6116,5,3,3,19,4,3,5,5,"Real Estate,Gaming",2
+801,Smart Trade Shows & Events Campaign,3,278,6895,3,3,9,29,4,3,3,1,"Finance,Lifestyle,Fitness",2
+802,Advanced Content Marketing Growth,4,1435,3823,1,4,8,27,3,4,1,2,"Technology,Fitness",2
+803,AI-Driven Pay-Per-Click Advertising Plan,3,1505,2694,5,2,6,17,4,2,1,2,Entertainment,2
+804,Advanced Voice Search Optimization Campaign,3,1415,2187,4,2,2,28,2,2,5,2,Fitness,4
+805,Smart Social Media Ads Engagement,3,1876,5130,1,2,2,27,3,2,2,2,Fitness,2
+806,Targeted Interactive Content Plan,5,906,6460,5,3,8,11,5,2,4,2,"Professional Services,Restaurants,Beauty",5
+807,NextGen Augmented Reality Marketing Plan,2,343,3922,2,4,6,28,3,4,5,2,Manufacturing,4
+808,Hyper Pay-Per-Click Advertising Growth,3,486,3381,5,1,10,23,1,1,3,2,"Services,E-commerce",5
+809,Targeted PR Campaigns Engagement,5,163,3476,5,3,1,30,1,3,2,4,"Services,News",3
+810,Smart Native Advertising Plan,4,1694,2764,3,2,1,30,2,1,2,1,"Beauty,Fitness",5
+811,Dynamic SMS Marketing Plan,5,1072,8212,1,2,2,23,5,5,5,3,"Retail,Technology",4
+812,Hyper Webinars Strategy,1,1470,2457,1,2,1,11,2,4,1,1,"Restaurants,All,Retail,E-commerce",5
+813,Advanced User-Generated Content Growth,3,655,5527,5,4,7,20,5,1,5,1,"B2B,Fashion",1
+814,AI-Driven Local SEO Plan,5,162,8316,1,2,6,13,1,1,1,1,"Beauty,B2B,News,Local Business",1
+815,Hyper PR Campaigns Outreach,2,1522,4025,5,3,9,26,2,5,4,1,Gaming,4
+816,Dynamic User-Generated Content Campaign,2,577,9352,3,3,3,20,1,5,1,1,"All,Food,SaaS,Products",4
+817,AI-Driven User-Generated Content Engagement,5,554,8443,4,4,9,17,2,1,1,5,"Restaurants,Digital Products,Education",1
+818,Targeted Interactive Content Engagement,1,305,6588,1,3,7,24,5,4,4,4,"Education,Products",3
+819,Dynamic Webinars Campaign,2,1707,4484,1,1,8,30,5,1,3,1,"Products,Local Business",3
+820,Advanced SMS Marketing Engagement,3,1480,2598,2,3,7,19,3,2,4,4,"Professional Services,Manufacturing",1
+821,NextGen LinkedIn Marketing Outreach,3,1906,9600,3,2,2,25,3,4,3,2,"Digital Products,Gaming",5
+822,Hyper Interactive Content Campaign,1,1882,6413,3,4,1,29,4,5,2,1,"Fashion,Retail,Real Estate,Beauty",2
+823,Smart Local SEO Growth,3,465,8626,5,4,8,12,1,2,3,1,"Local Business,SaaS,Gaming",3
+824,Ultimate Conversational Marketing Campaign,3,533,5407,4,2,5,21,5,2,4,4,Products,5
+825,AI-Driven Augmented Reality Marketing Growth,2,1352,8156,1,1,5,14,2,2,3,1,Professional Services,2
+826,AI-Driven Search Engine Optimization (SEO) Growth,1,1262,7215,2,5,5,21,1,3,3,3,B2B,3
+827,Hyper Community Marketing Engagement,5,667,8942,2,4,8,27,3,2,5,4,"Travel,News,Finance",3
+828,Dynamic Local SEO Plan,2,1092,5297,1,5,3,20,3,1,1,4,"Beauty,Finance",3
+829,Dynamic Native Advertising Outreach,3,738,5134,1,3,7,17,1,5,2,4,"Beauty,Entertainment,Finance,Real Estate",5
+830,Ultimate User-Generated Content Engagement,5,764,2711,4,1,4,16,5,4,4,2,Entertainment,3
+831,Ultimate Video Marketing Campaign,2,275,5550,5,2,3,22,5,2,4,3,"Beauty,Technology,Real Estate,All",5
+832,Targeted Influencer Marketing Growth,1,1780,3668,1,5,5,16,4,1,5,4,Technology,2
+833,Smart Micro-Influencer Marketing Campaign,1,897,8822,4,2,7,16,1,3,5,1,"Fitness,Professional Services",3
+834,Advanced Social Media Ads Campaign,5,591,4741,5,3,2,25,3,3,1,5,"Retail,Events",1
+835,Hyper Affiliate Marketing Strategy,4,110,5291,5,3,10,24,3,4,1,1,"Digital Products,Fitness,Food,News",3
+836,Smart Social Media Ads Growth,5,565,3831,2,5,3,13,2,3,1,3,"Technology,Travel,Food,Fitness",4
+837,AI-Driven Community Marketing Growth,5,1867,3381,4,4,2,22,4,5,2,3,Restaurants,5
+838,NextGen Augmented Reality Marketing Campaign,5,995,7374,1,3,3,22,5,1,4,4,"Restaurants,B2B",5
+839,Smart Community Marketing Strategy,5,1584,5220,1,5,2,18,4,3,4,3,"Digital Products,Products",3
+840,AI-Driven Webinars Growth,3,1259,9438,4,2,8,10,2,3,1,1,"Fitness,Beauty",2
+841,AI-Driven Social Media Marketing Plan,2,638,4238,4,1,9,25,3,2,4,2,"Services,Products,Events,Technology",4
+842,Dynamic Search Engine Optimization (SEO) Plan,1,1547,2374,2,1,8,13,4,3,2,1,"Retail,B2B,SaaS,Food",4
+843,Smart Voice Search Optimization Campaign,2,1509,8541,5,1,2,10,2,2,1,4,"Products,News,Travel",3
+844,Advanced Podcast Advertising Strategy,2,1267,7709,5,2,3,13,3,4,4,5,"Restaurants,Manufacturing,Retail",5
+845,Targeted Influencer Marketing Campaign,1,749,7923,2,3,10,15,3,3,5,3,"Food,Finance,Manufacturing",2
+846,Hyper Video Marketing Outreach,1,1364,8265,3,4,7,25,1,5,1,1,"Products,News",4
+847,AI-Driven Conversational Marketing Plan,1,1499,7676,2,5,3,23,1,2,3,3,"Services,Food,Manufacturing",2
+848,Ultimate Conversational Marketing Outreach,2,1340,4337,4,2,10,15,1,1,5,4,Events,5
+849,NextGen Augmented Reality Marketing Campaign,1,674,5479,3,5,3,11,4,1,1,3,Technology,1
+850,NextGen Email Marketing Campaign,2,1217,4856,1,5,8,20,4,1,2,5,"Retail,Finance",3
+851,AI-Driven Loyalty Programs Growth,2,1664,7703,5,2,5,23,3,3,3,5,All,2
+852,Dynamic Loyalty Programs Strategy,5,1185,5199,5,4,4,13,1,1,3,1,"Entertainment,Beauty,Products",1
+853,AI-Driven Podcast Advertising Growth,2,1243,7881,2,5,9,19,1,4,4,5,"B2B,Local Business,SaaS,Professional Services",5
+854,Hyper Local SEO Plan,5,1047,2996,4,5,10,18,3,3,3,4,"B2B,Travel",1
+855,NextGen Webinars Plan,4,1213,5775,5,5,5,27,3,2,4,3,"Beauty,Lifestyle,Entertainment,Services",5
+856,Dynamic Micro-Influencer Marketing Outreach,2,1448,6236,3,1,9,22,2,1,5,1,"Fashion,Lifestyle",2
+857,Ultimate User-Generated Content Growth,4,1966,4620,5,3,6,19,2,4,3,5,Products,1
+858,Smart Podcast Advertising Strategy,5,757,2317,5,5,3,14,4,3,5,2,"Travel,Local Business,E-commerce,Fashion",2
+859,Advanced Content Marketing Outreach,3,1207,3963,1,2,8,22,2,2,5,1,E-commerce,3
+860,Ultimate Conversational Marketing Campaign,3,1956,8556,5,2,9,12,5,3,2,3,"Professional Services,Finance,SaaS",3
+861,Hyper Customer Referral Programs Plan,2,587,8611,1,5,7,19,5,1,1,3,E-commerce,2
+862,Ultimate Search Engine Optimization (SEO) Campaign,5,1153,7197,3,1,6,12,5,3,1,2,SaaS,1
+863,Dynamic Augmented Reality Marketing Engagement,3,1600,8021,5,2,2,11,5,2,3,3,Fitness,5
+864,Hyper PR Campaigns Plan,4,1766,5015,4,2,7,12,2,1,5,3,All,1
+865,AI-Driven Customer Referral Programs Growth,1,1091,9316,3,5,7,24,1,1,2,1,"Beauty,Local Business,Manufacturing",3
+866,Advanced SMS Marketing Engagement,2,870,6896,3,2,6,24,5,4,2,3,Events,4
+867,Targeted Interactive Content Engagement,2,113,3713,2,2,9,13,2,4,4,3,"Finance,Travel",5
+868,Dynamic Outbound Sales Plan,5,996,8003,2,1,7,11,4,3,2,1,"Gaming,News,Fitness,Restaurants",2
+869,Dynamic Search Engine Optimization (SEO) Growth,2,1728,4630,1,5,6,14,1,2,1,4,"Technology,News,B2B,SaaS",4
+870,Hyper User-Generated Content Growth,1,1087,6296,4,2,4,23,3,5,3,2,"Lifestyle,E-commerce,Food",1
+871,Dynamic Mobile App Marketing Engagement,2,1580,5768,4,2,7,11,3,3,1,5,"SaaS,Services,Food",2
+872,AI-Driven Podcast Advertising Growth,2,109,2418,3,3,5,21,5,2,2,1,"Food,Technology,Education",5
+873,Hyper LinkedIn Marketing Outreach,4,1225,3909,4,4,3,19,5,4,4,2,"Gaming,Local Business,B2B",4
+874,Targeted Social Media Marketing Growth,3,1949,5018,1,5,6,13,4,4,4,1,B2B,3
+875,Dynamic Local SEO Growth,2,850,4980,3,2,4,19,3,2,2,2,"Fitness,Gaming,Digital Products,Products",2
+876,AI-Driven PR Campaigns Outreach,2,1547,8707,2,3,9,24,2,1,4,5,"Events,Fitness,Products",3
+877,AI-Driven Loyalty Programs Plan,3,471,7623,1,5,9,14,5,2,3,4,E-commerce,4
+878,Advanced Search Engine Optimization (SEO) Strategy,4,486,5641,3,1,3,24,5,3,1,1,"Beauty,Events",5
+879,Smart PR Campaigns Outreach,1,684,8771,5,5,7,15,3,5,5,5,"Restaurants,SaaS,Professional Services,Lifestyle",2
+880,Advanced Customer Referral Programs Growth,2,301,5756,2,3,5,14,4,5,2,1,"Education,SaaS,Gaming,Restaurants",3
+881,Smart Local SEO Engagement,3,506,3802,3,5,3,21,1,2,3,1,"Entertainment,Services,B2B,E-commerce",1
+882,Smart Influencer Marketing Engagement,1,1629,5667,1,1,10,26,3,4,3,2,"Real Estate,Fashion,Retail,Finance",5
+883,NextGen Local SEO Campaign,2,656,7509,3,4,5,10,3,4,3,1,"Manufacturing,B2B,Fitness,Professional Services",2
+884,Smart Micro-Influencer Marketing Strategy,3,319,4492,5,5,8,15,3,3,1,2,"Local Business,Finance,News,Lifestyle",4
+885,Hyper Social Media Marketing Engagement,2,320,2146,4,4,9,27,1,1,1,4,Food,3
+886,Ultimate Social Media Marketing Growth,5,664,5659,2,2,5,11,1,1,1,1,"Events,B2B,E-commerce",1
+887,Advanced Augmented Reality Marketing Strategy,3,1000,5662,3,4,7,30,1,4,5,2,"Restaurants,Travel,Real Estate",1
+888,Dynamic Social Media Ads Plan,5,1805,8993,5,5,10,28,4,4,4,2,News,1
+889,Smart Content Marketing Engagement,4,121,2213,2,2,5,19,5,1,3,1,"Lifestyle,Retail,Gaming",5
+890,Targeted Native Advertising Growth,3,548,4490,1,3,7,23,2,1,1,1,"Technology,Products,Professional Services,Gaming",1
+891,Smart Community Marketing Plan,5,1116,9661,1,2,5,30,4,4,3,3,"Fitness,Restaurants,Technology,All",4
+892,Hyper Native Advertising Outreach,2,710,4425,4,2,8,22,4,5,5,5,"B2B,Real Estate,Products,Professional Services",1
+893,Advanced LinkedIn Marketing Strategy,3,667,8628,1,1,4,17,2,4,3,5,"Technology,Services,Beauty",3
+894,NextGen Affiliate Marketing Outreach,1,1578,8036,1,5,7,18,5,4,4,5,"Entertainment,Professional Services",5
+895,AI-Driven Interactive Content Campaign,3,960,2498,4,2,5,18,5,4,2,2,"Services,Travel,Food,Products",2
+896,Smart Influencer Marketing Plan,1,1158,5042,4,4,4,25,3,2,2,1,SaaS,5
+897,Hyper Augmented Reality Marketing Engagement,5,1962,5602,4,4,3,10,2,3,1,1,"Fitness,SaaS",5
+898,NextGen Affiliate Marketing Growth,3,1767,5748,3,3,8,27,1,1,2,1,"Products,All,Retail,Professional Services",5
+899,Ultimate Voice Search Optimization Plan,3,270,6374,5,1,3,28,1,2,1,4,"Beauty,Local Business,Professional Services",3
+900,Targeted Webinars Engagement,2,1702,7964,2,5,7,13,1,1,4,1,"Education,Lifestyle,Food",4
+901,Targeted Native Advertising Campaign,3,1489,5037,2,1,4,25,1,3,2,3,Restaurants,1
+902,Smart Interactive Content Outreach,3,1949,2237,5,5,5,12,1,3,1,1,"Entertainment,Professional Services",5
+903,NextGen Loyalty Programs Engagement,4,554,4569,5,4,5,30,3,4,3,2,"Real Estate,Digital Products,Local Business,Beauty",2
+904,Ultimate Trade Shows & Events Growth,4,1112,5334,4,1,8,10,4,4,4,2,"Lifestyle,News,Products,B2B",4
+905,Ultimate Outbound Sales Outreach,2,1830,5804,3,2,9,23,4,2,5,4,Entertainment,4
+906,Dynamic Retargeting Campaigns Outreach,4,1885,5040,5,4,7,17,4,2,4,5,"Gaming,Entertainment",2
+907,Dynamic Interactive Content Strategy,3,351,4713,2,4,10,24,4,3,1,1,B2B,3
+908,Advanced Augmented Reality Marketing Strategy,4,496,4199,4,4,3,16,5,1,5,5,"Finance,Products",3
+909,Hyper Affiliate Marketing Engagement,4,1591,5235,4,1,7,20,1,5,3,5,"SaaS,News,Fashion,E-commerce",3
+910,Smart PR Campaigns Engagement,2,1637,6990,2,3,5,23,2,5,5,4,"Entertainment,Professional Services,Lifestyle",4
+911,NextGen Video Marketing Engagement,3,745,7039,4,3,7,20,3,4,5,3,"Real Estate,Events,Services,E-commerce",3
+912,Advanced Community Marketing Growth,3,1245,7685,3,1,9,30,4,2,2,3,All,2
+913,Advanced Outbound Sales Engagement,2,822,9068,3,4,9,29,5,2,5,4,"Entertainment,Finance,Digital Products,Events",2
+914,Hyper Email Marketing Outreach,1,762,7225,5,5,1,27,4,5,2,2,"Real Estate,Technology,Travel",5
+915,Targeted Trade Shows & Events Engagement,1,1026,8953,1,5,10,21,2,2,3,4,"All,Real Estate,Fitness,Professional Services",3
+916,Targeted Social Media Marketing Plan,2,1010,9263,4,3,1,21,2,5,2,5,"Food,Restaurants,Gaming,All",1
+917,Ultimate User-Generated Content Plan,1,773,5527,3,1,7,16,4,5,3,2,"Local Business,Retail,Products",1
+918,Dynamic Voice Search Optimization Outreach,5,312,7395,5,5,10,11,4,4,4,2,"Products,Real Estate,Travel",5
+919,Dynamic Local SEO Engagement,3,1078,3573,4,2,5,19,2,4,5,4,"Lifestyle,B2B,Real Estate,Food",2
+920,Targeted Video Marketing Plan,3,1908,6738,1,4,7,26,2,5,5,1,"B2B,Fashion,Products",3
+921,Hyper PR Campaigns Outreach,2,676,5992,1,5,4,27,4,1,1,5,Fitness,2
+922,Ultimate Trade Shows & Events Strategy,1,1481,7120,5,3,3,18,2,4,5,5,"Local Business,Entertainment,Beauty",5
+923,Ultimate Social Media Marketing Plan,2,1817,7268,4,1,10,24,2,3,5,5,"Digital Products,Food,Technology",5
+924,Smart Community Marketing Engagement,3,1635,2674,4,4,10,25,3,1,3,2,"Beauty,Local Business",3
+925,AI-Driven Community Marketing Engagement,2,1897,2718,3,1,7,21,4,4,1,5,"Finance,Professional Services,Fitness",3
+926,Dynamic Search Engine Optimization (SEO) Plan,4,1539,5610,3,5,2,21,5,4,5,4,Finance,1
+927,Hyper Mobile App Marketing Engagement,3,1119,8184,2,2,10,29,2,2,5,1,Fashion,4
+928,Dynamic Webinars Growth,2,1579,4727,5,2,8,30,5,1,4,2,Fitness,4
+929,Targeted Outbound Sales Engagement,5,1405,8644,2,4,9,18,4,1,1,2,"Finance,Technology,Beauty",1
+930,Smart Retargeting Campaigns Growth,3,571,6549,4,5,2,26,5,2,1,1,SaaS,5
+931,AI-Driven Voice Search Optimization Strategy,2,1177,9337,1,3,8,20,4,4,5,3,"Entertainment,Lifestyle,Digital Products,E-commerce",2
+932,Dynamic Video Marketing Engagement,2,1141,8936,2,2,1,16,1,3,1,2,"Finance,Gaming,Digital Products",4
+933,Targeted Mobile App Marketing Outreach,3,130,5592,4,4,1,21,1,2,5,2,"Lifestyle,Beauty,Professional Services,Events",3
+934,NextGen Social Media Ads Growth,1,1264,2218,3,5,10,22,1,4,2,2,E-commerce,1
+935,Smart Affiliate Marketing Campaign,3,606,9750,3,4,7,13,2,4,3,3,"Manufacturing,Restaurants",2
+936,Smart Trade Shows & Events Campaign,4,863,6191,3,1,6,16,3,1,1,3,"Real Estate,Gaming",2
+937,Advanced Outbound Sales Strategy,3,1936,4956,5,2,5,16,4,3,5,2,"Gaming,Digital Products,Services",4
+938,AI-Driven Search Engine Optimization (SEO) Strategy,1,1542,6048,3,1,8,15,5,1,1,5,Beauty,3
+939,Targeted Community Marketing Growth,2,940,2817,1,1,6,29,4,1,5,3,"Food,B2B",1
+940,NextGen Outbound Sales Plan,5,917,6990,5,4,2,18,1,1,3,4,"Entertainment,SaaS",4
+941,Advanced PR Campaigns Outreach,5,588,6010,5,5,7,25,2,4,5,1,Finance,2
+942,AI-Driven Content Marketing Outreach,3,1208,4799,5,4,10,23,5,4,2,1,"Gaming,Entertainment,SaaS",3
+943,Ultimate Conversational Marketing Outreach,3,646,9635,3,3,10,20,4,4,4,3,"Local Business,Education,Products",3
+944,Targeted Video Marketing Strategy,2,460,5811,3,2,9,28,3,4,3,2,"Professional Services,Real Estate,Food,Travel",1
+945,AI-Driven Trade Shows & Events Engagement,5,1815,3709,5,2,8,21,5,4,3,2,"Retail,Beauty,Finance",1
+946,AI-Driven User-Generated Content Engagement,3,1724,9341,5,5,8,13,2,3,1,4,Food,3
+947,Smart Social Media Ads Plan,2,1522,5255,3,2,10,10,2,3,3,1,Lifestyle,3
+948,AI-Driven Podcast Advertising Growth,4,1350,2520,5,4,3,16,5,1,5,2,"Local Business,Services,Fitness,News",3
+949,Targeted LinkedIn Marketing Outreach,1,1176,4803,4,4,6,16,4,4,1,5,"Technology,Products,B2B",2
+950,Targeted PR Campaigns Campaign,2,1183,8992,2,3,8,19,3,5,4,4,Fitness,1
+951,Targeted Content Marketing Plan,4,791,3193,2,4,10,10,4,4,1,4,"Real Estate,Beauty,Fashion",1
+952,NextGen Podcast Advertising Plan,3,1009,4216,1,3,2,26,4,4,5,3,"Lifestyle,All,Professional Services",4
+953,Targeted Native Advertising Engagement,3,137,4020,3,1,8,10,1,1,2,3,Professional Services,3
+954,Hyper Influencer Marketing Engagement,5,261,8171,1,5,10,14,3,3,4,1,"Gaming,SaaS,Fitness",5
+955,AI-Driven Guerrilla Marketing Strategy,3,997,3226,3,3,9,15,4,3,1,3,"Real Estate,Restaurants,Events",5
+956,Targeted Outbound Sales Growth,3,1820,8215,1,1,10,17,1,1,5,2,"Digital Products,Local Business,Professional Services,E-commerce",1
+957,Hyper Influencer Marketing Plan,5,379,5564,3,1,6,15,4,2,5,1,"Fitness,Products,Lifestyle",1
+958,Ultimate PR Campaigns Outreach,4,1896,4371,2,3,7,15,3,1,4,4,Services,5
+959,Dynamic Voice Search Optimization Campaign,5,1645,4691,5,1,2,20,3,1,3,3,"Restaurants,Events",1
+960,NextGen Outbound Sales Engagement,3,1556,8183,3,2,7,20,5,4,3,5,"Finance,SaaS,Entertainment",4
+961,Advanced Micro-Influencer Marketing Engagement,1,1112,8608,4,4,7,26,5,4,2,3,Lifestyle,1
+962,Advanced Podcast Advertising Outreach,1,1262,4537,1,3,5,17,4,2,2,2,Real Estate,1
+963,Ultimate Loyalty Programs Growth,5,976,2712,2,4,6,29,3,3,5,5,"Lifestyle,Fitness",2
+964,Targeted Email Marketing Plan,1,497,5151,3,1,6,26,2,5,4,4,"Fitness,Fashion,E-commerce,SaaS",2
+965,Hyper Community Marketing Plan,4,920,4405,4,5,2,26,4,1,3,2,"Beauty,Manufacturing",4
+966,Ultimate Influencer Marketing Growth,1,477,2173,1,3,4,24,1,4,4,5,Manufacturing,4
+967,Advanced Search Engine Optimization (SEO) Campaign,2,1728,5006,3,3,9,13,4,5,5,4,"Retail,Education,Travel,E-commerce",1
+968,NextGen Affiliate Marketing Engagement,4,1236,6727,5,1,9,22,5,1,5,4,"Gaming,SaaS",4
+969,Targeted Micro-Influencer Marketing Strategy,1,1208,3306,1,2,6,30,4,5,2,5,"Manufacturing,Food,All,Fitness",5
+970,Targeted Podcast Advertising Campaign,4,1614,2529,2,2,5,24,1,5,4,2,"Gaming,Technology,Real Estate",3
+971,Ultimate Interactive Content Engagement,1,1803,5966,4,1,10,23,2,3,5,3,"Finance,Events",4
+972,Smart Customer Referral Programs Strategy,2,1903,6596,1,1,7,21,5,5,3,3,"E-commerce,Manufacturing,Lifestyle",2
+973,Dynamic Voice Search Optimization Growth,5,1384,4963,2,2,6,17,1,2,4,4,"SaaS,Manufacturing",3
+974,Hyper Conversational Marketing Growth,3,1126,9404,3,1,5,25,2,3,1,2,"B2B,Technology",3
+975,NextGen Mobile App Marketing Plan,4,894,9139,4,1,1,16,3,3,3,4,"Restaurants,Lifestyle",1
+976,Advanced SMS Marketing Campaign,1,1401,3599,4,5,3,20,2,3,2,3,"All,Services,News,Beauty",3
+977,Advanced Retargeting Campaigns Growth,2,1612,5487,1,3,7,24,5,5,3,4,"Entertainment,Manufacturing,Real Estate",3
+978,Advanced Interactive Content Growth,2,858,4422,2,2,1,26,4,3,4,2,Entertainment,2
+979,Advanced Affiliate Marketing Campaign,5,1793,2719,3,1,10,30,2,3,1,1,"Finance,Gaming,Entertainment",4
+980,Smart Affiliate Marketing Campaign,1,1832,2691,2,5,8,21,3,3,3,5,"News,Events,Restaurants",1
+981,AI-Driven Trade Shows & Events Outreach,1,408,7190,4,2,6,15,1,3,3,1,"Fitness,Travel",5
+982,Dynamic Augmented Reality Marketing Campaign,4,1700,6716,1,1,8,28,4,5,5,3,News,2
+983,Hyper Pay-Per-Click Advertising Outreach,4,1740,5819,3,4,2,28,3,4,4,5,"Services,Technology,B2B,News",2
+984,Targeted User-Generated Content Growth,4,125,8095,4,2,9,20,2,5,5,3,Services,3
+985,Advanced Augmented Reality Marketing Plan,3,266,2461,1,2,4,16,4,5,5,4,"Fitness,Finance",2
+986,Advanced Augmented Reality Marketing Growth,4,1821,6447,4,3,8,26,5,2,2,2,Travel,2
+987,Targeted SMS Marketing Outreach,3,1740,8021,1,3,3,25,4,5,4,1,"Local Business,B2B,E-commerce,All",1
+988,Targeted Influencer Marketing Strategy,3,652,5658,2,4,2,22,1,1,4,3,"News,SaaS,Education,Technology",1
+989,Targeted Email Marketing Plan,2,1201,9018,3,4,6,23,3,5,4,3,"Local Business,Food",1
+990,NextGen Customer Referral Programs Campaign,4,1814,7216,5,2,5,20,4,5,5,2,"Travel,Lifestyle,Finance,Food",1
+991,NextGen Augmented Reality Marketing Engagement,4,121,3055,5,1,3,11,5,1,3,4,"Digital Products,Fashion",2
+992,Ultimate Content Marketing Plan,2,189,6264,2,1,7,10,3,5,1,4,"Retail,Beauty,Local Business,SaaS",4
+993,Targeted Pay-Per-Click Advertising Outreach,5,1715,8684,2,3,5,27,4,2,3,2,"Food,Products",1
+994,Hyper Social Media Marketing Engagement,5,631,5490,1,1,8,26,1,5,2,3,"Services,Gaming,Travel",5
+995,Advanced Search Engine Optimization (SEO) Campaign,2,638,5606,3,3,3,22,2,1,2,3,"Services,Restaurants,Food,Professional Services",3
+996,NextGen Search Engine Optimization (SEO) Strategy,5,868,7543,5,4,5,29,3,3,1,2,"Products,Real Estate,Services",5
+997,NextGen Outbound Sales Campaign,3,1158,8543,2,1,3,19,4,4,5,1,Technology,3
+998,Hyper SMS Marketing Growth,3,1703,2280,1,5,2,29,2,2,2,2,"Food,Real Estate",4
+999,AI-Driven Email Marketing Outreach,4,452,8500,3,4,8,26,3,2,5,1,Finance,3
+1000,Dynamic Affiliate Marketing Growth,3,1413,2495,4,3,7,12,3,5,2,4,Products,4
