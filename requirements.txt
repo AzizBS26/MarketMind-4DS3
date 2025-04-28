@@ -1,0 +1,8 @@
+# Core dependencies for the product description generator
+gradio==3.28.0                # Gradio for the UI interface
+langchain==0.0.156            # LangChain for managing chains and prompts
+transformers==4.30.0          # Transformers for T5 and other language models
+torch                         # Automatically install the latest compatible version of PyTorch
+faiss-cpu                     # FAISS for retrieval
+datasets                      # Hugging Face Datasets for data preprocessing
+pandas                        # Pandas for data manipulation
