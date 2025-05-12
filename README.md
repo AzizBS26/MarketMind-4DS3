@@ -1,37 +1,41 @@
-# 🚀 MarketMind-4DS3
+# Text-to-Speech Model with LibriSpeech
 
-## 📌 Project Overview
-This project, developed as part of an academic initiative at **Esprit School of Engineering**, explores the use of AI and machine learning to enhance marketing strategies. By analyzing multimodal data, the project aims to optimize content creation, customer engagement, and market trend forecasting.
+This project implements a neural text-to-speech (TTS) model and fine-tunes it on the LibriSpeech dev-clean dataset.
 
----
+## Architecture
 
-## 🔥 Key Features
-✅ **Content Creation** – AI-generated marketing materials based on audience engagement.  
-✅ **Sentiment Analysis** – Understanding customer sentiment from various data sources.  
-✅ **Performance Evaluation** – Tracking marketing campaign success through key metrics.  
-✅ **Customization** – Personalized marketing strategies based on customer behavior.  
-✅ **Market Trend Prediction** – Forecasting trends using historical data.  
+The model uses a Transformer-based architecture with:
+- Text encoder that converts text input to phonemes and then to embeddings
+- Duration predictor that estimates how long each phoneme should be pronounced
+- Mel-spectrogram decoder that generates audio features
+- Vocoder that converts spectrograms to audio waveforms
 
----
+## Dataset
 
-## 📂 Dataset
-Each module is powered by a dedicated dataset:
+The model is fine-tuned using the LibriSpeech dev-clean dataset, which contains high-quality English speech recordings.
 
-📌 **Content Creation** – Text and multimedia data for content generation.  
-📌 **Sentiment Analysis** – Social media posts, customer reviews, and feedback.  
-📌 **Performance Evaluation** – Metrics from past marketing campaigns.  
-📌 **Customization** – Customer interaction and behavior datasets.  
-📌 **Predicting Market Trends** – Historical sales and market movement data.  
+## Usage
 
----
+1. Install dependencies:
+```
+pip install -r requirements.txt
+```
 
-## 🚀 Technologies Used
-🟡 **Programming & Frameworks:**  
-- Python 🐍  
-- TensorFlow/Keras 🤖  
-- PyTorch 🔥  
-- Scikit-learn 🏆  
-- Pandas & NumPy 📊  
+2. Preprocess the LibriSpeech dataset:
+```
+python preprocess.py
+```
 
-🟢 **Visualization & Data Analysis:**   
-- Matplotlib & Seaborn 📉  
+3. Train the model:
+```
+python train.py
+```
+
+4. Generate audio from text:
+```
+python generate.py --text "Text to synthesize" --output output.wav
+```
+
+## Requirements
+
+See `requirements.txt` for the list of dependencies. 

@@ -1,0 +1,12 @@
+torch>=1.10.0
+torchaudio>=0.10.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+librosa>=0.8.0
+transformers>=4.15.0
+datasets>=1.18.0
+soundfile>=0.10.3
+tensorboard>=2.8.0
+phonemizer>=3.0.0
+einops>=0.4.1
+tqdm>=4.62.0 
