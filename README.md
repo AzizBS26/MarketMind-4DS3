@@ -75,9 +75,3 @@ Preprocessing included:
 
 ---
 
-## 📸 Sample Outputs
-
-```markdown
-![Generated Flyer](images/generated_flyer.png)
-![Sentiment Heatmap](images/sentiment_heatmap.png)
-![Product Description](images/product_description_example.png)
