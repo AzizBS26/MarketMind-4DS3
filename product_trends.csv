@@ -1,0 +1,201 @@
+product_id,product_name,category,price,target_demographic,seasonality,product_age_months,growth_potential,current_trend_value,social_mentions_weekly,search_volume_weekly
+1,Vintage Clock by ElegantLiving,Home Decor,444.39,"Children, Young Adults, Seniors",2,32,11,48,201,298
+2,Smart Tea by FlavorsDelight,Food & Beverage,49.52,"Women, Men",5,21,57,81,295,446
+3,Handcrafted Lamp by ElegantLiving,Home Decor,93.25,"Students, Men",2,3,45,48,66,395
+4,Organic Tea by FlavorsDelight,Food & Beverage,37.18,"Teenagers, Families, Children",3,30,68,18,44,54
+5,Durable Vase by CozyNest,Home Decor,356.47,"Teenagers, Parents, Women",4,33,89,35,118,99
+6,Premium Gourmet Set by FlavorsDelight,Food & Beverage,44.98,"Parents, Families, Professionals",4,1,79,71,284,514
+7,Modern Supplements by WellnessDaily,Health,98.91,"Young Adults, Parents",4,6,38,100,381,500
+8,Adjustable Vase by ElegantLiving,Home Decor,245.52,"Families, Young Adults, Women",3,11,30,52,145,211
+9,Handcrafted Paint Set by ArtistChoice,Art Supplies,30.45,"Teenagers, Children",1,20,90,48,228,99
+10,Handcrafted Camping Gear by WildTrek,Outdoors,43.5,Children,2,22,21,12,54,85
+11,Modern Massager by VitalWell,Health,56.02,"Professionals, Women",2,12,34,88,279,582
+12,Smart Hammock by NatureExplorer,Outdoors,100.26,Women,3,9,30,32,105,308
+13,Portable Collar by PetComfort,Pet Supplies,64.58,Women,3,18,19,72,77,323
+14,Luxury Pen Set by ProductivityPlus,Office,168.88,"Families, Seniors, Teenagers",1,21,23,58,164,579
+15,Modern Reference Guide by MindJourney,Books,23.26,Professionals,2,3,60,36,161,159
+16,Eco-Friendly Non-Fiction by ReadMore,Books,31.73,"Seniors, Professionals",5,1,21,88,353,712
+17,Smart Fiction by StoryWorld,Books,13.19,Men,3,15,59,80,265,280
+18,Portable Supplements by HolisticLife,Health,70.99,Families,2,22,63,40,61,357
+19,Organic Socks by ModernChic,Clothing,97.38,"Young Adults, Families",3,6,55,47,67,420
+20,Modern Knife Set by KitchenPro,Kitchen,55.41,"Seniors, Parents, Children",4,11,63,54,54,460
+21,Luxury Massager by PureHealth,Health,16.46,Teenagers,5,36,61,32,104,223
+22,Adjustable Mirror by CozyNest,Home Decor,99.82,Parents,3,29,24,43,152,370
+23,Eco-Friendly Tea by GourmetSelect,Food & Beverage,14.0,"Parents, Young Adults, Families",2,19,50,32,127,156
+24,Organic Desk Organizer by DeskMaster,Office,12.44,"Students, Parents, Women",1,16,54,26,50,68
+25,Eco-Friendly Cutting Board by KitchenPro,Kitchen,363.54,"Students, Children, Men",2,16,61,20,91,153
+26,Smart Lamp by HomeEssence,Home Decor,466.12,"Men, Women",1,27,14,100,412,775
+27,Handcrafted Knife Set by GourmetBasics,Kitchen,312.67,Professionals,1,10,92,78,375,637
+28,Organic Plush Toy by KidJoy,Toys,92.27,"Seniors, Parents, Women",1,5,25,55,260,357
+29,Organic Jeans by ComfortZone,Clothing,101.16,"Seniors, Students",1,7,28,40,166,346
+30,Professional Vase by CozyNest,Home Decor,40.37,Children,2,20,41,23,42,204
+31,Professional Speaker by SmartLife,Electronics,1652.11,"Men, Women, Families",2,23,97,73,139,176
+32,Budget Tea by NatureBoost,Health,60.76,"Professionals, Students",3,25,53,94,344,895
+33,Adjustable Jeans by EcoWear,Clothing,161.71,Young Adults,5,32,10,37,54,112
+34,Adjustable Essential Oils by NatureBoost,Health,48.78,Families,5,21,75,53,164,328
+35,Portable Supplements by PureHealth,Health,34.59,"Professionals, Young Adults, Students",5,22,21,39,154,226
+36,Durable Plush Toy by KidJoy,Toys,94.22,"Students, Families",1,33,25,27,34,263
+37,Professional Pet Bed by PetLove,Pet Supplies,92.7,"Families, Students, Women",5,5,16,33,143,178
+38,Lightweight Cookbook by PageTurner,Books,35.95,Seniors,1,17,36,73,294,708
+39,Durable Coasters by ArtisanCreations,Handmade,295.66,Students,2,7,28,73,108,476
+40,Handcrafted Moisturizer by BeautyEssence,Beauty,110.99,Young Adults,4,1,32,93,344,797
+41,Smart Spices by FlavorsDelight,Food & Beverage,21.46,Young Adults,4,19,11,92,431,678
+42,Organic Building Blocks by PlayTime,Toys,91.73,Parents,2,35,99,81,347,642
+43,Budget Yoga Mat by ActiveLife,Fitness,248.62,Men,1,32,17,68,204,635
+44,Budget Camping Gear by NatureExplorer,Outdoors,493.67,Children,2,25,53,71,156,576
+45,Smart Collar by WagWell,Pet Supplies,34.01,"Women, Families",1,15,26,100,211,533
+46,Eco-Friendly Soap by HandmadeWonder,Handmade,24.51,"Seniors, Students",4,4,56,78,207,197
+47,Smart Jewelry by CraftedLife,Handmade,159.54,Students,2,26,51,92,351,373
+48,Portable Scarf by ModernChic,Clothing,153.05,"Men, Students, Families",1,24,27,47,107,402
+49,Adjustable Serum by LuxeBeauty,Beauty,123.2,"Men, Families, Students",4,32,52,58,129,334
+50,Luxury Non-Fiction by BookWorm,Books,31.79,Students,2,6,84,81,274,274
+51,Portable Tea by FoodCraft,Food & Beverage,49.69,"Students, Teenagers, Parents",4,23,55,60,224,273
+52,Eco-Friendly Sketchbook by ColorCraft,Art Supplies,35.1,"Parents, Women, Men",1,16,35,37,46,80
+53,Vintage Cookware by ChefChoice,Kitchen,327.99,"Young Adults, Teenagers",3,17,43,51,224,115
+54,Adjustable Non-Fiction by StoryWorld,Books,28.15,Seniors,4,24,66,19,72,104
+55,Modern Yoga Mat by FlexFit,Fitness,292.33,"Children, Men",5,1,37,35,174,174
+56,Compact Bag by EnduranceMax,Fitness,49.77,Parents,1,25,33,18,26,80
+57,Organic Wall Art by CraftedJoy,Handmade,202.8,"Children, Students, Families",2,25,78,39,151,263
+58,Vintage Tea by FoodCraft,Food & Beverage,32.57,"Teenagers, Parents, Women",2,30,59,43,200,160
+59,Luxury Lipstick by NaturalGlow,Beauty,109.09,"Men, Women, Families",2,20,36,54,189,287
+60,Vintage Tablet by SoundWave,Electronics,274.79,"Men, Parents",1,33,26,48,81,296
+61,Smart Soap by HandmadeWonder,Handmade,119.14,"Teenagers, Young Adults",4,12,60,63,162,220
+62,Organic Chair Cushion by DeskMaster,Office,40.73,"Parents, Teenagers",2,24,59,62,236,253
+63,Vintage Pet Bed by PetComfort,Pet Supplies,15.69,"Students, Professionals",5,35,63,29,129,137
+64,Budget Massager by VitalWell,Health,72.02,"Men, Professionals, Women",1,13,62,92,145,565
+65,Lightweight Frame by ElegantLiving,Home Decor,444.8,"Young Adults, Children",2,33,98,86,262,769
+66,Vintage Carrier by PetComfort,Pet Supplies,87.88,"Parents, Families",2,30,36,83,162,554
+67,Premium Camping Gear by WildTrek,Outdoors,387.61,Families,4,28,87,66,291,556
+68,Smart Non-Fiction by StoryWorld,Books,26.58,"Men, Students, Children",3,29,78,80,389,402
+69,Durable Blanket by ModernSpace,Home Decor,393.01,"Seniors, Men",1,17,38,70,75,347
+70,Professional Socks by ComfortZone,Clothing,162.81,"Seniors, Parents, Students",2,13,14,63,236,580
+71,Luxury Spices by FlavorsDelight,Food & Beverage,8.26,"Young Adults, Parents, Seniors",1,29,51,37,73,90
+72,Organic Action Figure by ImagineCraft,Toys,34.36,"Teenagers, Seniors, Parents",3,7,11,68,299,630
+73,Portable Desk Organizer by OfficePro,Office,103.2,"Young Adults, Men",5,6,58,24,109,136
+74,Budget Moisturizer by GlowUp,Beauty,72.77,"Seniors, Parents, Men",2,6,31,75,76,490
+75,Durable Serum by NaturalGlow,Beauty,69.86,"Young Adults, Teenagers",4,25,38,33,101,171
+76,Adjustable Dress by UrbanThread,Clothing,95.74,"Young Adults, Students, Parents",3,7,40,87,123,412
+77,Vintage Frame by HomeEssence,Home Decor,366.15,Men,2,4,36,82,266,698
+78,Portable Gourmet Set by TastyBites,Food & Beverage,46.71,"Young Adults, Parents",3,22,38,54,85,386
+79,Smart Essential Oils by VitalWell,Health,78.56,"Families, Young Adults, Men",2,22,49,82,134,427
+80,Budget Fiction by PageTurner,Books,40.13,"Parents, Men",4,4,72,41,202,171
+81,Luxury Blanket by ElegantLiving,Home Decor,121.04,"Men, Families, Young Adults",1,12,34,90,205,899
+82,Eco-Friendly Tablet by SmartLife,Electronics,1442.31,"Seniors, Students",3,11,33,66,170,294
+83,Durable Tea by NatureBoost,Health,45.95,Children,5,2,95,36,172,94
+84,Eco-Friendly Jeans by StyleCraft,Clothing,59.01,Young Adults,2,29,42,87,212,248
+85,Lightweight Coffee by GourmetSelect,Food & Beverage,26.01,Women,3,9,50,57,260,322
+86,Vintage Tracker by EnduranceMax,Fitness,193.5,"Teenagers, Students, Children",1,26,49,88,270,378
+87,Budget Tea by PureHealth,Health,49.71,"Students, Teenagers",5,36,45,71,126,544
+88,Lightweight Cleanser by NaturalGlow,Beauty,124.88,"Students, Seniors, Families",4,11,66,40,73,215
+89,Organic Jewelry by HandmadeWonder,Handmade,150.61,"Professionals, Students",3,23,68,73,335,427
+90,Organic Tracker by PowerMove,Fitness,268.6,"Professionals, Students, Seniors",2,21,67,78,239,777
+91,Handcrafted Massager by PureHealth,Health,9.07,"Women, Families",3,18,61,73,282,444
+92,Budget Action Figure by PlayTime,Toys,95.35,"Men, Students",2,30,13,33,102,292
+93,Adjustable Paint Set by ColorCraft,Art Supplies,57.58,"Teenagers, Children, Seniors",2,11,74,100,260,557
+94,Compact Backpack by NatureExplorer,Outdoors,145.75,Men,2,15,76,90,377,497
+95,Smart Speaker by TechPro,Electronics,1936.11,"Seniors, Young Adults",2,7,19,54,250,305
+96,Compact Speaker by TechPro,Electronics,733.63,"Families, Teenagers, Children",5,21,65,100,373,248
+97,Professional Headphones by SoundWave,Electronics,536.52,"Parents, Seniors, Young Adults",4,28,64,42,165,250
+98,Portable Bag by FlexFit,Fitness,142.97,Young Adults,1,26,65,74,332,582
+99,Premium Supplements by PureHealth,Health,42.33,"Teenagers, Students",5,35,10,52,102,247
+100,Vintage Tablet by TechPro,Electronics,71.09,"Women, Parents",3,34,34,50,233,229
+101,Adjustable Storage Containers by KitchenPro,Kitchen,146.15,Parents,2,17,67,87,136,784
+102,Premium Camping Gear by TrailBlazer,Outdoors,342.53,"Students, Teenagers",2,20,73,78,111,161
+103,Handcrafted Brush Set by BeautyEssence,Beauty,93.82,Women,5,23,41,98,245,235
+104,Professional Knife Set by CulinaryEdge,Kitchen,68.45,"Children, Seniors",5,23,43,52,216,304
+105,Luxury Building Blocks by CreativePlay,Toys,49.6,"Teenagers, Women",5,32,68,12,54,42
+106,Premium Socks by EcoWear,Clothing,31.0,Teenagers,1,15,19,81,273,626
+107,Lightweight Resistance Bands by EnduranceMax,Fitness,205.2,"Students, Professionals",4,10,76,40,198,348
+108,Compact Fiction by ReadMore,Books,18.41,"Families, Teenagers, Young Adults",2,27,65,75,206,599
+109,Professional Scarf by UrbanThread,Clothing,184.89,"Young Adults, Children, Women",2,34,15,86,264,422
+110,Adjustable Fiction by MindJourney,Books,38.77,"Young Adults, Men, Women",2,31,13,100,350,744
+111,Vintage Blender by ChefChoice,Kitchen,121.25,"Parents, Seniors",1,35,84,86,285,772
+112,Vintage Smartwatch by PowerTech,Electronics,1472.89,Seniors,5,14,87,59,112,430
+113,Adjustable Serum by LuxeBeauty,Beauty,11.63,Teenagers,3,33,57,30,70,150
+114,Budget Wall Art by UniqueByHand,Handmade,295.35,"Men, Children",3,18,62,70,310,504
+115,Luxury Bowl by PetComfort,Pet Supplies,68.85,Young Adults,5,25,88,45,109,146
+116,Handcrafted Planter by UniqueByHand,Handmade,37.05,"Professionals, Children",2,9,36,63,190,354
+117,Eco-Friendly Desk Organizer by WorkSmart,Office,42.61,"Seniors, Students, Professionals",4,31,62,98,373,779
+118,Modern Sweater by UrbanThread,Clothing,67.06,Children,2,12,21,100,127,814
+119,Vintage Supplements by HolisticLife,Health,19.77,"Parents, Women, Families",1,23,46,82,122,465
+120,Premium Laptop Stand by WorkSmart,Office,94.76,Professionals,3,3,37,89,207,348
+121,Organic Plush Toy by FunZone,Toys,74.95,"Professionals, Women",2,36,48,74,195,652
+122,Handcrafted Laptop Stand by OrganizeIt,Office,18.51,"Women, Teenagers, Parents",3,10,47,88,253,501
+123,Compact Treats by FurFriends,Pet Supplies,51.36,Professionals,2,17,97,35,131,267
+124,Portable First Aid Kit by NatureBoost,Health,64.73,Professionals,2,28,56,52,231,204
+125,Organic Pen Set by ProductivityPlus,Office,106.13,"Teenagers, Families",1,15,43,24,116,225
+126,Eco-Friendly Knife Set by ChefChoice,Kitchen,114.03,"Students, Teenagers, Professionals",2,9,28,79,292,772
+127,Organic Serum by PureRadiance,Beauty,128.49,"Teenagers, Families, Men",5,13,23,73,278,282
+128,Budget Cleanser by PureRadiance,Beauty,72.36,"Children, Seniors",4,32,19,45,200,304
+129,Organic Planter by HandmadeWonder,Handmade,223.37,"Children, Professionals, Men",1,11,20,36,108,180
+130,Durable Tea by PureHealth,Health,75.13,Men,1,33,17,78,230,232
+131,Adjustable Blanket by ModernSpace,Home Decor,76.61,"Children, Men, Parents",1,8,17,76,207,409
+132,Adjustable Mask by GlowUp,Beauty,37.4,"Parents, Seniors",2,27,17,100,495,757
+133,Handcrafted Pen Set by DeskMaster,Office,34.72,"Teenagers, Families",3,20,13,47,82,404
+134,Adjustable Tablet by SmartLife,Electronics,353.96,Children,2,18,65,53,211,302
+135,Organic Leash by PetComfort,Pet Supplies,90.93,"Children, Women, Teenagers",1,19,45,46,96,180
+136,Modern Pen Set by ProductivityPlus,Office,80.07,"Teenagers, Students, Women",3,36,60,89,237,212
+137,Compact Gourmet Set by FlavorsDelight,Food & Beverage,43.08,"Children, Young Adults, Students",3,32,97,60,81,357
+138,Smart Reference Guide by MindJourney,Books,24.66,Women,2,22,40,80,279,337
+139,Adjustable Resistance Bands by PowerMove,Fitness,259.37,"Seniors, Students, Parents",3,24,74,28,64,252
+140,Budget Notebook by ProductivityPlus,Office,70.57,Professionals,5,16,34,77,207,735
+141,Portable Reference Guide by ReadMore,Books,33.72,"Children, Women, Men",3,6,46,46,132,108
+142,Smart Planner by DeskMaster,Office,125.52,"Families, Women, Seniors",3,32,54,47,89,388
+143,Premium Carrier by FurFriends,Pet Supplies,14.55,"Teenagers, Men, Students",3,30,52,78,269,301
+144,Budget Cookware by ChefChoice,Kitchen,256.03,Young Adults,1,7,40,48,95,328
+145,Portable Brush Set by CreativeSpirit,Art Supplies,76.09,Teenagers,3,18,43,49,201,101
+146,Handcrafted First Aid Kit by NatureBoost,Health,90.06,Professionals,4,11,10,90,131,818
+147,Portable Speaker by DigitalEdge,Electronics,1751.71,"Families, Children, Young Adults",2,22,27,70,188,569
+148,Eco-Friendly Craft Kit by FunZone,Toys,48.54,Seniors,1,31,13,28,134,132
+149,Professional Soap by ArtisanCreations,Handmade,123.46,"Children, Men",3,22,31,81,194,581
+150,Vintage Tablet by SoundWave,Electronics,1432.33,"Children, Students",4,12,69,82,178,199
+151,Premium Frame by ModernSpace,Home Decor,498.26,"Children, Seniors",2,35,40,41,67,323
+152,Luxury Tea by NatureBoost,Health,89.41,Children,3,35,47,100,328,597
+153,Vintage Resistance Bands by PowerMove,Fitness,19.4,Men,3,9,46,47,192,412
+154,Durable Serum by BeautyEssence,Beauty,149.62,"Teenagers, Seniors",2,19,33,45,68,245
+155,Vintage Backpack by WildTrek,Outdoors,437.38,"Students, Families, Young Adults",4,15,42,60,198,557
+156,Handcrafted Pillow by ElegantLiving,Home Decor,108.21,"Teenagers, Seniors",1,30,66,86,177,195
+157,Budget Paint Set by ArtEssentials,Art Supplies,53.24,"Children, Men",5,9,53,100,377,373
+158,Vintage Collar by WagWell,Pet Supplies,25.33,Women,3,28,56,65,193,454
+159,Adjustable First Aid Kit by WellnessDaily,Health,91.27,"Parents, Seniors, Students",1,31,36,63,226,395
+160,Lightweight Toy by WagWell,Pet Supplies,51.04,Seniors,4,3,46,58,72,539
+161,Lightweight Yoga Mat by FitZone,Fitness,46.91,"Parents, Students",3,13,14,100,361,279
+162,Modern Reference Guide by MindJourney,Books,32.66,"Men, Women",4,6,69,85,122,768
+163,Portable Brush Set by NaturalGlow,Beauty,118.2,Parents,2,35,50,97,217,803
+164,Professional Collar by HappyPets,Pet Supplies,57.31,"Seniors, Men, Teenagers",4,27,10,95,173,337
+165,Lightweight Knife Set by CulinaryEdge,Kitchen,320.32,"Children, Students, Parents",1,11,39,79,98,508
+166,Lightweight Spices by FoodCraft,Food & Beverage,48.64,"Men, Women, Seniors",2,34,28,46,211,243
+167,Eco-Friendly Spices by FlavorsDelight,Food & Beverage,21.91,"Professionals, Men",1,16,62,65,93,364
+168,Durable Coloring Book by PageTurner,Books,26.31,"Young Adults, Professionals, Parents",1,13,63,39,104,179
+169,Modern Board Game by PlayTime,Toys,37.77,"Families, Men, Parents",4,27,35,75,104,665
+170,Luxury Coloring Book by ReadMore,Books,24.39,"Parents, Women",5,35,41,32,125,311
+171,Modern Water Bottle by FlexFit,Fitness,258.46,"Young Adults, Children",5,1,36,47,209,210
+172,Portable Lipstick by PureRadiance,Beauty,137.31,"Professionals, Children, Seniors",4,32,28,37,126,150
+173,Eco-Friendly Camping Gear by TrailBlazer,Outdoors,347.35,"Men, Women",4,25,16,41,196,267
+174,Premium Chocolate by TastyBites,Food & Beverage,25.3,"Women, Young Adults",2,27,42,55,149,485
+175,Lightweight Knife Set by GourmetBasics,Kitchen,15.67,"Parents, Children, Professionals",2,18,66,83,258,765
+176,Compact Board Game by PlayTime,Toys,74.05,Children,1,1,34,76,346,169
+177,Eco-Friendly Soap by ArtisanCreations,Handmade,182.41,"Children, Seniors, Parents",4,19,65,42,111,94
+178,Smart Smartwatch by DigitalEdge,Electronics,127.53,"Seniors, Young Adults, Teenagers",3,8,47,78,367,739
+179,Budget Action Figure by FunZone,Toys,30.41,"Men, Women",5,9,57,46,227,391
+180,Portable Lamp by CozyNest,Home Decor,418.98,"Young Adults, Parents",5,26,66,69,252,461
+181,Budget Paint Set by ArtistChoice,Art Supplies,91.63,"Men, Young Adults, Families",5,30,54,87,180,808
+182,Adjustable Pen Set by OfficePro,Office,91.77,"Professionals, Families",5,13,66,74,272,348
+183,Adjustable Candle by CraftedJoy,Handmade,61.65,"Seniors, Families",3,14,68,84,374,549
+184,Durable First Aid Kit by PureHealth,Health,7.62,"Women, Children",5,13,98,72,192,713
+185,Lightweight Leash by PetLove,Pet Supplies,36.32,Men,1,17,41,36,138,160
+186,Premium Knife Set by CookSmart,Kitchen,119.26,"Parents, Seniors, Teenagers",5,16,45,51,189,112
+187,Modern Journal by StoryWorld,Books,44.79,Seniors,3,33,25,59,92,187
+188,Premium Action Figure by KidJoy,Toys,80.02,Professionals,3,5,90,70,115,225
+189,Professional Clock by ElegantLiving,Home Decor,151.3,"Seniors, Young Adults, Men",3,32,94,16,56,146
+190,Modern Notebook by OfficePro,Office,168.52,"Children, Teenagers, Parents",5,1,28,26,86,244
+191,Portable Hammock by WildTrek,Outdoors,277.0,Seniors,3,13,28,60,200,390
+192,Premium Moisturizer by LuxeBeauty,Beauty,30.66,"Professionals, Children",2,4,27,82,368,816
+193,Compact Camping Gear by NatureExplorer,Outdoors,162.64,"Teenagers, Families",3,22,66,47,68,263
+194,Smart Smartwatch by DigitalEdge,Electronics,1420.62,Men,5,10,65,77,249,356
+195,Handcrafted Canvas by CreativeSpirit,Art Supplies,85.18,"Teenagers, Young Adults",4,7,45,78,119,224
+196,Luxury Fiction by PageTurner,Books,11.08,"Men, Women",5,11,50,79,153,305
+197,Vintage Treats by PetComfort,Pet Supplies,88.15,Parents,1,36,18,35,50,155
+198,Vintage Headphones by PowerTech,Electronics,1572.62,"Seniors, Parents, Children",4,31,65,42,131,196
+199,Budget Notebook by OrganizeIt,Office,47.45,"Children, Parents, Professionals",4,30,29,27,57,177
+200,Handcrafted Bag by ActiveLife,Fitness,284.91,"Women, Children, Teenagers",2,15,42,54,202,537
