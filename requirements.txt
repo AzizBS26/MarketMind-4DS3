@@ -1,8 +1,24 @@
-# Core dependencies for the product description generator
 gradio==3.28.0                # Gradio for the UI interface
 langchain==0.0.156            # LangChain for managing chains and prompts
 transformers==4.30.0          # Transformers for T5 and other language models
-torch                         # Automatically install the latest compatible version of PyTorch
-faiss-cpu                     # FAISS for retrieval
+torch==1.13.1                 # Specific PyTorch version for compatibility
+torchvision==0.14.1           # Required for image processing
+torchaudio==0.13.1            # Often included with PyTorch installations
+diffusers==0.14.0             # For Stable Diffusion image generation
+accelerate==0.18.0            # For optimized inference
 datasets                      # Hugging Face Datasets for data preprocessing
+sentencepiece                 # Required for T5 tokenizer
+pillow                        # For image manipulation
 pandas                        # Pandas for data manipulation
+numpy                         # Required for numerical operations
+imageio                       # Used for GIF creation
+scipy                         # Required by various ML libraries
+scikit-learn                  # For data preprocessing and evaluation
+nltk                          # Natural Language Toolkit for text processing
+faiss-cpu                     # FAISS for retrieval
+tensorboard                   # For monitoring training
+huggingface_hub              # For downloading models from Hugging Face
+protobuf==3.20.0              # Fixed version to avoid compatibility issues
+ftfy                          # Text normalization
+regex                         # Regular expressions for text processing
+tqdm                          # Progress bars
