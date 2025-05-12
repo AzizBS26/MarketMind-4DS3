@@ -24,7 +24,7 @@ def image_desc_generator(product_image):
         img_bytes = buffered.getvalue()
         img_base64 = base64.b64encode(img_bytes).decode('utf-8')
 
-        gemini_api_key = "AIzaSyCtJCqSj_4mzX_-l9NH8OZMuTG7xVzEX48"
+        gemini_api_key = "GEMINI-KEY"
         model_name = "gemini-1.5-flash"
         gemini_api_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={gemini_api_key}"
 
