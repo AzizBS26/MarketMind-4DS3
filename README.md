@@ -1,8 +1,6 @@
-# 🚀 MarketMind-4DS3
-
-## 📌 Project Overview
-This project, developed as part of an academic initiative at **Esprit School of Engineering**, explores the use of AI and machine learning to enhance marketing strategies. By analyzing multimodal data, the project aims to optimize content creation, customer engagement, and market trend forecasting.
-
+🚀 MarketMind-4DS3 — Prime Guide AI
+✨ AI-Powered Marketing Assistant
+Developed at Esprit School of Engineering to revolutionize digital marketing for SMEs through multimodal AI models and LLMs.
 ---
 
 ## 🔥 Key Features
