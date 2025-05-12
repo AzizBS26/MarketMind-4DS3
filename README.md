@@ -84,7 +84,7 @@ Preprocessing included:
 - **Vision**: OpenCV, PIL, DALL·E Mini, Stable Diffusion  
 - **Speech**: ElevenLabs API, Google TTS  
 - **Embeddings**: SentenceTransformers  
-- **Deployment Tools**: (optional) Docker, Streamlit  
+- **Deployment Tools**: flask , react ,.....
 
 ---
 
