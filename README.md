@@ -74,4 +74,46 @@ Preprocessing included:
 | `ElevenLabs` / `Google TTS` | Voice synthesis for marketing feedback |
 
 ---
+## ⚙️ Technologies & Tools
 
+- **Languages**: Python  
+- **Frameworks**: TensorFlow, PyTorch, Transformers  
+- **Libraries**: Scikit-learn, Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn  
+- **NLP**: HuggingFace, NLTK, TextStat  
+- **Vision**: OpenCV, PIL, DALL·E Mini, Stable Diffusion  
+- **Speech**: ElevenLabs API, Google TTS  
+- **Embeddings**: SentenceTransformers  
+- **Deployment Tools**: (optional) Docker, Streamlit  
+
+---
+
+## 🚧 Limitations
+
+| Component | Limitation |
+|-----------|------------|
+| GPT-2 | Limited context handling, resource-heavy, lacks memory |
+| Gemini | Struggles with small details or emotional visual content |
+| T5-base | Small parameter size, slow fine-tuning on CPU |
+| Stable Diffusion | Fixed resolution (512×512), basic animation |
+| ElevenLabs | Lower accuracy in noisy/multilingual environments |
+| Recommendation System | Static and non-adaptive to user feedback |
+| DALL-E Mini | Limited understanding of complex prompts |
+
+---
+
+## 🤝 Team Members
+
+- Yasmine Ajailia  
+- Rostom Atri  
+- Aziz Ben Slima  
+- Eya Abid  
+- Mahmoud Ben Hammouda  
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to **Esprit School of Engineering** and our instructors for their continuous guidance and support in this project.
+
+---
